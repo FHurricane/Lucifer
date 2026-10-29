@@ -1,0 +1,6235 @@
+{
+  "source": "https://github.com/linuxserver/Heimdall-Apps",
+  "importedAt": "2026-10-29T17:22:59.601Z",
+  "count": 692,
+  "services": [
+    {
+      "id": "666a52d2389b1864d0c376ef7d3a84e9cc54edb8",
+      "slug": "Ackee",
+      "name": "Ackee",
+      "icon": "/service-icons/Ackee.png",
+      "website": "https://github.com/electerious/Ackee",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "50f46198a1bd51840547aee34fc045921e43d4c6",
+      "slug": "Actual",
+      "name": "Actual",
+      "icon": "/service-icons/Actual.png",
+      "website": "https://actualbudget.org/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "140902edbcc424c09736af28ab2de604c3bde936",
+      "slug": "AdGuardHome",
+      "name": "AdGuard Home",
+      "icon": "/service-icons/AdGuardHome.png",
+      "website": "https://github.com/AdguardTeam/AdGuardHome",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "653caf8bdf55d6a99d77ceacd79f622353cd821a",
+      "slug": "Adminer",
+      "name": "Adminer",
+      "icon": "/service-icons/Adminer.svg",
+      "website": "https://www.adminer.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "7e9d6cf69e36e72a53457904973f677aaaa993d0",
+      "slug": "ADSBExchange",
+      "name": "ADS-B Exchange",
+      "icon": "/service-icons/ADSBExchange.png",
+      "website": "https://www.adsbexchange.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "098e0b8fe2102018fd3c283e5d4a53b2be427f99",
+      "slug": "AdventureLog",
+      "name": "AdventureLog",
+      "icon": "/service-icons/AdventureLog.png",
+      "website": "https://adventurelog.app/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "56b4f3f190a00a736c968f26154beca76e29ace2",
+      "slug": "AFFiNE",
+      "name": "AFFiNE",
+      "icon": "/service-icons/AFFiNE.png",
+      "website": "https://affine.pro/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "80089872044e4415d12351a613017381b1ed1d77",
+      "slug": "AirDCWebClient",
+      "name": "AirDC++ Web Client",
+      "icon": "/service-icons/AirDCWebClient.png",
+      "website": "https://github.com/airdcpp-web/airdcpp-webclient",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "317f16f137fe0fd9eaf67dd6e203e50c0c1bf319",
+      "slug": "Airsonic",
+      "name": "Airsonic",
+      "icon": "/service-icons/Airsonic.png",
+      "website": "https://airsonic.github.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6cc9df46f8a7ee3bf8ce4d44555ee3cbef760535",
+      "slug": "AirTrail",
+      "name": "AirTrail",
+      "icon": "/service-icons/AirTrail.png",
+      "website": "https://airtrail.johan.ohly.dk/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "4defd493f891cb5bb8a6d8ea3d6fc7dc5a8ae91b",
+      "slug": "akou",
+      "name": "akou",
+      "icon": "/service-icons/akou.svg",
+      "website": "https://geiserx.github.io/akou/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "4a1349c03398a3e66f6efdf6395fb689d80f83fa",
+      "slug": "AlarmPI",
+      "name": "AlarmPI",
+      "icon": "/service-icons/AlarmPI.png",
+      "website": "https://github.com/bkbilly/AlarmPI",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "911b452cf4d6ec592b6ea8ec1640f61692c02180",
+      "slug": "AlbyHub",
+      "name": "Alby Hub",
+      "icon": "/service-icons/AlbyHub.png",
+      "website": "https://albyhub.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "9fe84adc4eb8248be3322c8754a0cf6219d122d6",
+      "slug": "Alertmanager",
+      "name": "Alertmanager",
+      "icon": "/service-icons/Alertmanager.png",
+      "website": "https://prometheus.io/docs/alerting/alertmanager",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "4405bf27647620a14e2cbc2d2d4088cd648e5160",
+      "slug": "alist",
+      "name": "alist",
+      "icon": "/service-icons/alist.svg",
+      "website": "https://alist.nn.ci/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "65f59ec6b1ecd6170d5044474043cca9560a8071",
+      "slug": "AMP",
+      "name": "AMP",
+      "icon": "/service-icons/AMP.png",
+      "website": "https://cubecoders.com/AMP",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "d01efdd19c06455076ee03617a77cc95e0412336",
+      "slug": "Amule",
+      "name": "Amule",
+      "icon": "/service-icons/Amule.png",
+      "website": "https://www.amule.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b212cb2eac64d638f5291e01ff0cc014afc621eb",
+      "slug": "Apcupsd",
+      "name": "Apcupsd",
+      "icon": "/service-icons/Apcupsd.png",
+      "website": "http://www.apcupsd.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "cc11dbeabcbe5d680f813bfb0ce3bb2fd00c0e0a",
+      "slug": "ApexFusion",
+      "name": "Apex Fusion",
+      "icon": "/service-icons/ApexFusion.png",
+      "website": "https://apexfusion.com/apex/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e7cbd6b1ecc571b4e93f4795246090dad7057012",
+      "slug": "Arcane",
+      "name": "Arcane",
+      "icon": "/service-icons/Arcane.png",
+      "website": "https://getarcane.app/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "7779bfb41003301f1b395c0691002423773d68c1",
+      "slug": "ArchiSteamFarm",
+      "name": "ArchiSteamFarm",
+      "icon": "/service-icons/ArchiSteamFarm.png",
+      "website": "https://github.com/JustArchiNET/ArchiSteamFarm",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b74f349cf434a529c0fe8589315b5956a4562097",
+      "slug": "ArchiveBox",
+      "name": "ArchiveBox",
+      "icon": "/service-icons/ArchiveBox.png",
+      "website": "https://github.com/pirate/ArchiveBox",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "5eef559f19eadb9593bafbd3ca6155dc6721a0d7",
+      "slug": "ArchiveTeamWarrior",
+      "name": "ArchiveTeam Warrior",
+      "icon": "/service-icons/ArchiveTeamWarrior.png",
+      "website": "https://www.archiveteam.org/index.php?title=ArchiveTeam_Warrior",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "88dc19bddba6e23ec39f978777b5adc5784ca27a",
+      "slug": "ArgoCD",
+      "name": "Argo CD",
+      "icon": "/service-icons/ArgoCD.svg",
+      "website": "https://argoproj.github.io/cd/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "80fd108a3d7a5a3c4e2cd0c4da36c943099e006e",
+      "slug": "Argus",
+      "name": "Argus",
+      "icon": "/service-icons/Argus.png",
+      "website": "https://github.com/release-argus/Argus",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a0f88a6334b03ff11dc56d1b627f122ccacb75ce",
+      "slug": "AriaNg",
+      "name": "AriaNg",
+      "icon": "/service-icons/AriaNg.png",
+      "website": "https://github.com/mayswind/AriaNg",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "4950589b19623304e3adb649d9eee6a3bf70c35b",
+      "slug": "Artifactory",
+      "name": "Artifactory",
+      "icon": "/service-icons/Artifactory.png",
+      "website": "https://jfrog.com/open-source",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "fa8a2fb9dfd946ec30d5e6b2ee69e24f8a252c5b",
+      "slug": "AsrockRackIPMI",
+      "name": "Asrock Rack IPMI",
+      "icon": "/service-icons/AsrockRackIPMI.png",
+      "website": "https://www.asrockrack.com/support/faq.de.asp?id=28",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "80ae543b72401945334f11915bf93263ce206986",
+      "slug": "Asustor",
+      "name": "Asustor",
+      "icon": "/service-icons/Asustor.png",
+      "website": "https://www.asustor.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6c6defee55d3919ddcc6ca1985984e305e971cb7",
+      "slug": "Asuswrt",
+      "name": "Asuswrt",
+      "icon": "/service-icons/Asuswrt.png",
+      "website": "https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/All-series/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "4432738a5981dde89b94b751a0179c2fdae7b7cf",
+      "slug": "Atlantis",
+      "name": "Atlantis",
+      "icon": "/service-icons/Atlantis.png",
+      "website": "http://runatlantis.io",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "b24d8f63b8802524214b208afd82a5a99649ca40",
+      "slug": "AudioBookRequest",
+      "name": "AudioBookRequest",
+      "icon": "/service-icons/AudioBookRequest.png",
+      "website": "https://github.com/markbeep/AudioBookRequest",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "c7ec3e2f2d9be6a4d313d2451184b08ade93ce47",
+      "slug": "Audiobookshelf",
+      "name": "Audiobookshelf",
+      "icon": "/service-icons/Audiobookshelf.svg",
+      "website": "https://audiobookshelf.org",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e82ab241f951414d245c2ad266b11a49ad25b2c9",
+      "slug": "AudioSilo",
+      "name": "AudioSilo",
+      "icon": "/service-icons/AudioSilo.svg",
+      "website": "https://audiosilo.app",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+      "slug": "aura",
+      "name": "aura",
+      "icon": "/service-icons/aura.png",
+      "website": "https://github.com/mediux-team/AURA",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "3e1d9cc7f6619a55af217e3d4fcd59223c0051e3",
+      "slug": "Aurral",
+      "name": "Aurral",
+      "icon": "/service-icons/Aurral.svg",
+      "website": "https://aurral.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a32b08d97b1615dc27f58b6b17f67624c04e2c4f",
+      "slug": "Authelia",
+      "name": "Authelia",
+      "icon": "/service-icons/Authelia.png",
+      "website": "https://www.authelia.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "34088ce0402f28fca7286fc2d833c0d68b0d28cf",
+      "slug": "Authentik",
+      "name": "Authentik",
+      "icon": "/service-icons/Authentik.svg",
+      "website": "https://goauthentik.io",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "66506eac84c6980a1beccafa10003ec78da7dd17",
+      "slug": "Autobrr",
+      "name": "Autobrr",
+      "icon": "/service-icons/Autobrr.png",
+      "website": "https://autobrr.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e8354374b262e6f1055e7412d11f24a164a50f79",
+      "slug": "AVMFritzbox",
+      "name": "AVM Fritzbox",
+      "icon": "/service-icons/AVMFritzbox.png",
+      "website": "https://avm.de",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "47bf44c0ec908654f16bacf131107a5aac3ae7b4",
+      "slug": "AWX",
+      "name": "AWX",
+      "icon": "/service-icons/AWX.svg",
+      "website": "https://github.com/ansible/awx",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "88f0ced5c5338c9068beaa6746b2eb3d04e18e74",
+      "slug": "AxigenMailServer",
+      "name": "Axigen Mail Server",
+      "icon": "/service-icons/AxigenMailServer.png",
+      "website": "https://www.axigen.com/mail-server/download/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "30830dcf0690700377872b9b42d5d3976cdf1939",
+      "slug": "BabyBuddy",
+      "name": "Baby Buddy",
+      "icon": "/service-icons/BabyBuddy.svg",
+      "website": "https://github.com/babybuddy/babybuddy",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "808ff47f28ddce2652860f5da59a4c62a7e285dd",
+      "slug": "Bacula",
+      "name": "Bacula",
+      "icon": "/service-icons/Bacula.png",
+      "website": "https://www.bacula.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "2577aa56d31c9817a26e412e90d419f70ebc6353",
+      "slug": "Baikal",
+      "name": "Baikal",
+      "icon": "/service-icons/Baikal.png",
+      "website": "https://sabre.io/baikal",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "bee3525621cf0e6eba6a30360edb25c79689d869",
+      "slug": "BarcodeBuddy",
+      "name": "Barcode Buddy",
+      "icon": "/service-icons/BarcodeBuddy.png",
+      "website": "https://github.com/Forceu/barcodebuddy",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "c33213e627b43330f87293800148123fb34cc68e",
+      "slug": "Baserow",
+      "name": "Baserow",
+      "icon": "/service-icons/Baserow.png",
+      "website": "https://baserow.io/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "c07ac2e365e175d304c1cd409bcfc288ff18594f",
+      "slug": "Bastillion",
+      "name": "Bastillion",
+      "icon": "/service-icons/Bastillion.png",
+      "website": "https://www.bastillion.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "085f0b437f9bf9c98bb68b745c8dcf323a7e0499",
+      "slug": "Bazarr",
+      "name": "Bazarr",
+      "icon": "/service-icons/Bazarr.png",
+      "website": "https://github.com/morpheus65535/bazarr",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "136ffdccd1da4e73d171ea21714a2e218d44b449",
+      "slug": "BentoPDF",
+      "name": "Bento PDF",
+      "icon": "/service-icons/BentoPDF.png",
+      "website": "https://bentopdf.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "14641c955e3750a6405faa911be80402a9bf0e31",
+      "slug": "Beszel",
+      "name": "Beszel",
+      "icon": "/service-icons/Beszel.svg",
+      "website": "https://github.com/henrygd/beszel",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "95a4d02b710de882465fa81c003b9cc2f25aee55",
+      "slug": "biblicalatlas",
+      "name": "biblical-atlas",
+      "icon": "/service-icons/biblicalatlas.svg",
+      "website": "https://biblical-atlas.geiser.cloud",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ffedd1ae88a796e1a7063d741f755bd72d4cfb11",
+      "slug": "Bind9",
+      "name": "Bind9",
+      "icon": "/service-icons/Bind9.png",
+      "website": "https://www.isc.org/bind/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1ba78e86603122518e909662d4277e72f57eb2d7",
+      "slug": "BINDERY",
+      "name": "BINDERY",
+      "icon": "/service-icons/BINDERY.png",
+      "website": "https://getbindery.dev",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2f30a87f74760968c906bb4d758a08e535ea35c4",
+      "slug": "BirdNETGo",
+      "name": "BirdNET-Go",
+      "icon": "/service-icons/BirdNETGo.png",
+      "website": "https://github.com/tphakala/birdnet-go",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "3473303159fd176995bf450167e777b0a6f97a47",
+      "slug": "bitmagnet",
+      "name": "bitmagnet",
+      "icon": "/service-icons/bitmagnet.svg",
+      "website": "https://bitmagnet.io/",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "1e48cdffa2791145e9401d0bbafa2553769c5160",
+      "slug": "BitNinjaSecurity",
+      "name": "BitNinja Security",
+      "icon": "/service-icons/BitNinjaSecurity.png",
+      "website": "https://bitninja.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a4f9c2e87d1b3a6f0c5e9d82b7a1e43f6c0d9b5e",
+      "slug": "bitShake",
+      "name": "bitShake",
+      "icon": "/service-icons/bitShake.svg",
+      "website": "https://www.bitshake.de/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "8a846dca305866d821748c007cf6b64adf00ea22",
+      "slug": "Bitwarden",
+      "name": "Bitwarden",
+      "icon": "/service-icons/Bitwarden.svg",
+      "website": "https://bitwarden.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "357f5ce56cc9cb4f118f7875926750c2d9cab5c8",
+      "slug": "Blinko",
+      "name": "Blinko",
+      "icon": "/service-icons/Blinko.png",
+      "website": "https://blinko.mintlify.app/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "c1aa84341ce69af2e1462008358e80cb12a1ef4d",
+      "slug": "Bludit",
+      "name": "Bludit",
+      "icon": "/service-icons/Bludit.svg",
+      "website": "https://www.bludit.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "2d90dc53a735b852b3dfe664c991d24183b9484c",
+      "slug": "BlueIrisNVR",
+      "name": "BlueIris NVR",
+      "icon": "/service-icons/BlueIrisNVR.png",
+      "website": "https://blueirissoftware.com/",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "a7379d83fab1a89ea15053889d9ed1a93d67c0d2",
+      "slug": "Bluemap",
+      "name": "Bluemap",
+      "icon": "/service-icons/Bluemap.png",
+      "website": "https://github.com/BlueMap-Minecraft/BlueMap",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b841629e802ff1295a3afdaf8a9ed72586f7bfae",
+      "slug": "Booklore",
+      "name": "Booklore",
+      "icon": "/service-icons/Booklore.png",
+      "website": "https://github.com/booklore-app/booklore",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "92d3495e9e82905efa254d34d5f879c00b460de3",
+      "slug": "BookOrbit",
+      "name": "BookOrbit",
+      "icon": "/service-icons/BookOrbit.png",
+      "website": "https://bookorbit.app/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "091d3909d7e0bde850659125a13712c0122a6493",
+      "slug": "Booksonic",
+      "name": "Booksonic",
+      "icon": "/service-icons/Booksonic.png",
+      "website": "https://booksonic.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "348c49dd03dddd418929316668d2e67bf2d9ae88",
+      "slug": "Bookstack",
+      "name": "Bookstack",
+      "icon": "/service-icons/Bookstack.svg",
+      "website": "https://www.bookstackapp.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "c7d8a6d722a1ec9a16fae165177c418d4fd63175",
+      "slug": "Box",
+      "name": "Box",
+      "icon": "/service-icons/Box.png",
+      "website": "https://box.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b86d83df7031cfab0e9df38759fe87970acd839c",
+      "slug": "Brewblox",
+      "name": "Brewblox",
+      "icon": "/service-icons/Brewblox.png",
+      "website": "https://www.brewblox.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2407b6a54722cc03e3242fb52181f7215b0fcb06",
+      "slug": "Bricktracker",
+      "name": "Bricktracker",
+      "icon": "/service-icons/Bricktracker.png",
+      "website": "https://gitea.baerentsen.space/FrederikBaerentsen/BrickTracker",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "4aad630e6c72b64c79df498803ba2247372bbba7",
+      "slug": "BrotherPrinter",
+      "name": "Brother Printer",
+      "icon": "/service-icons/BrotherPrinter.png",
+      "website": "https://www.brother-usa.com/home/printers-fax",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d98196101a984fa44b27540b1193b8189d8d7724",
+      "slug": "Browserless",
+      "name": "Browserless",
+      "icon": "/service-icons/Browserless.png",
+      "website": "https://www.browserless.io/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "6c51d4f37f544b0327d327d1bade045a7809a4d9",
+      "slug": "Budibase",
+      "name": "Budibase",
+      "icon": "/service-icons/Budibase.png",
+      "website": "https://budibase.com/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "bdaf9034b558e70fc584d519952bfad13ae8a4f9",
+      "slug": "ByteStash",
+      "name": "ByteStash",
+      "icon": "/service-icons/ByteStash.png",
+      "website": "https://github.com/jordan-dalby/ByteStash",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "36cf09d76e7173b82ef23504aae37c05784b0215",
+      "slug": "Cabot",
+      "name": "Cabot",
+      "icon": "/service-icons/Cabot.png",
+      "website": "https://cabotapp.com",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "d11c485949439d12c6d634478672001e05e0f4e7",
+      "slug": "Cachet",
+      "name": "Cachet",
+      "icon": "/service-icons/Cachet.png",
+      "website": "https://cachethq.io/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "bf5f8374d9851dd0404704c004a67dc746493c94",
+      "slug": "cAdvisor",
+      "name": "cAdvisor",
+      "icon": "/service-icons/cAdvisor.png",
+      "website": "https://github.com/google/cadvisor",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "b4ed1bbe2bd124be29afea5d393f5ef915d3e509",
+      "slug": "CalibreWebAutomated",
+      "name": "Calibre Web Automated",
+      "icon": "/service-icons/CalibreWebAutomated.png",
+      "website": "https://github.com/crocodilestick/Calibre-Web-Automated",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d0404064982ed19f24e76ca261e1fbb4d821c2a6",
+      "slug": "CalibreWeb",
+      "name": "CalibreWeb",
+      "icon": "/service-icons/CalibreWeb.png",
+      "website": "https://github.com/janeczku/calibre-web",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "c20407dc14e5be5b31ee70f357cec88347e14853",
+      "slug": "Cannery",
+      "name": "Cannery",
+      "icon": "/service-icons/Cannery.svg",
+      "website": "https://gitea.bubbletea.dev/shibao/cannery",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "9f2e2dd8217d1186f9ad484d91e009227efa5897",
+      "slug": "Cardigann",
+      "name": "Cardigann",
+      "icon": "/service-icons/Cardigann.png",
+      "website": "https://github.com/cardigann/cardigann",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "c1f84beb40ec87b367bb8f4de5adf53052cb8671",
+      "slug": "CasaOS",
+      "name": "CasaOS",
+      "icon": "/service-icons/CasaOS.svg",
+      "website": "https://www.casaos.io/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "5b7c085bf60518c8e7261473688a98200e60847b",
+      "slug": "CashPilot",
+      "name": "CashPilot",
+      "icon": "/service-icons/CashPilot.svg",
+      "website": "https://github.com/GeiserX/CashPilot",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "9cc25b34048c85c37f5fc6be33ac5caebf9e95c1",
+      "slug": "Ceph",
+      "name": "Ceph",
+      "icon": "/service-icons/Ceph.png",
+      "website": "https://docs.ceph.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "014ead93249d93b30a9e1e50861ede106a5ba1d4",
+      "slug": "Certimate",
+      "name": "Certimate",
+      "icon": "/service-icons/Certimate.png",
+      "website": "https://github.com/certimate-go/certimate",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "86c6a58798da154166de71097263f9c40804d636",
+      "slug": "ChangeDetectionio",
+      "name": "ChangeDetection.io",
+      "icon": "/service-icons/ChangeDetectionio.png",
+      "website": "https://changedetection.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "c5490738886244f3795807b7cd537fe34df0c274",
+      "slug": "ChannelsDVR",
+      "name": "Channels DVR",
+      "icon": "/service-icons/ChannelsDVR.svg",
+      "website": "https://getchannels.com/dvr/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ba15c0ff84b20ffe205935dbbf8ffb5f02648632",
+      "slug": "Checkmk",
+      "name": "Checkmk",
+      "icon": "/service-icons/Checkmk.svg",
+      "website": "https://checkmk.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d8a153c2cb84da8b2556b093d1f98659b89d7e26",
+      "slug": "Chevereto",
+      "name": "Chevereto",
+      "icon": "/service-icons/Chevereto.png",
+      "website": "https://chevereto.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "7799a0f63bdae67145c85519239860c8882f9a64",
+      "slug": "Chronograf",
+      "name": "Chronograf",
+      "icon": "/service-icons/Chronograf.png",
+      "website": "https://www.influxdata.com/time-series-platform/chronograf",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e4b57a729acdf2e7eefcb9c3022796ed5fdb9aca",
+      "slug": "Clarkson",
+      "name": "Clarkson",
+      "icon": "/service-icons/Clarkson.png",
+      "website": "https://github.com/linuxserver/Clarkson",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "4581fc009cf3e648c61a17a28e5764f5d034976c",
+      "slug": "Clash",
+      "name": "Clash",
+      "icon": "/service-icons/Clash.png",
+      "website": "https://github.com/Dreamacro/clash",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "95bf6c7a1fba58d82c0a2b94167776c46c5c02cb",
+      "slug": "Cleanuparr",
+      "name": "Cleanuparr",
+      "icon": "/service-icons/Cleanuparr.png",
+      "website": "https://github.com/cleanuparr/cleanuparr",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6f968228bc1947fee1320a37c5b2429dfdbf8081",
+      "slug": "CloudCMD",
+      "name": "Cloud CMD",
+      "icon": "/service-icons/CloudCMD.png",
+      "website": "http://cloudcmd.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e47bc8f7e265217ac0adfb77a2c6b6574d348f1a",
+      "slug": "CloudBeaver",
+      "name": "CloudBeaver",
+      "icon": "/service-icons/CloudBeaver.svg",
+      "website": "https://cloudbeaver.io/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f036f579066ad71bd653f5a6418dbede5b500370",
+      "slug": "Cloudflare",
+      "name": "Cloudflare",
+      "icon": "/service-icons/Cloudflare.svg",
+      "website": "https://dash.cloudflare.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b130cf9e144689f37182cddf3a5d503fd33495cc",
+      "slug": "CloudStack",
+      "name": "CloudStack",
+      "icon": "/service-icons/CloudStack.svg",
+      "website": "https://cloudstack.apache.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "c3ca2faab8b1e6bf3ba212d383d15d45da8c951e",
+      "slug": "CNCjs",
+      "name": "CNCjs",
+      "icon": "/service-icons/CNCjs.png",
+      "website": "https://cnc.js.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e4475bc2121ed1ffd1e742c7c2521ca0f16cef93",
+      "slug": "Cockpit",
+      "name": "Cockpit",
+      "icon": "/service-icons/Cockpit.png",
+      "website": "https://cockpit-project.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ca6a902fe117cd57f037f771998f6c6f35f87be2",
+      "slug": "CockpitCMS",
+      "name": "Cockpit CMS",
+      "icon": "/service-icons/CockpitCMS.png",
+      "website": "https://getcockpit.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "9eebc5964efd0e6656fe4f143474988bde6c9ef3",
+      "slug": "Codeserver",
+      "name": "Code server",
+      "icon": "/service-icons/Codeserver.png",
+      "website": "https://github.com/cdr/code-server",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "d688ae4face9f51ed4844f51c609fc9762900535",
+      "slug": "Codex",
+      "name": "Codex",
+      "icon": "/service-icons/Codex.svg",
+      "website": "https://github.com/ajslater/codex",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2ab436efba9e25585ac0ed6232c92fa57173a4aa",
+      "slug": "CodiMD",
+      "name": "CodiMD",
+      "icon": "/service-icons/CodiMD.png",
+      "website": "https://codimd.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "03959669b24360f78cd9d5f092ac57a80074b3ac",
+      "slug": "Concourse",
+      "name": "Concourse",
+      "icon": "/service-icons/Concourse.png",
+      "website": "https://concourse-ci.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "cfca44c2f5ed9c775cf5953ef3a3ab86eae6cb8a",
+      "slug": "Confluence",
+      "name": "Confluence",
+      "icon": "/service-icons/Confluence.svg",
+      "website": "https://www.atlassian.com/software/confluence",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "64ceb760e1fb1d5444b300230d5c009769eb40d8",
+      "slug": "ConvertX",
+      "name": "ConvertX",
+      "icon": "/service-icons/ConvertX.png",
+      "website": "https://github.com/c4illin/ConvertX",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "62f3cfb591ba027f8c13694f169a9c1165de1580",
+      "slug": "Coolify",
+      "name": "Coolify",
+      "icon": "/service-icons/Coolify.png",
+      "website": "https://coolify.io/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ea1750dfb51ad4e6d5ef56923811c1e7fc9f7c00",
+      "slug": "copyparty",
+      "name": "copyparty",
+      "icon": "/service-icons/copyparty.svg",
+      "website": "https://github.com/9001/copyparty",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "8629d759d41163a10142fabb192a49dc33d4b959",
+      "slug": "CouchPotato",
+      "name": "CouchPotato",
+      "icon": "/service-icons/CouchPotato.svg",
+      "website": "https://couchpota.to",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "fef97bae9058a5beeacfc2ec9de3fec9c97969ec",
+      "slug": "cPanel",
+      "name": "cPanel",
+      "icon": "/service-icons/cPanel.png",
+      "website": "https://www.cpanel.net",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "200fe80f6b54e75f36a0ae671663f47b417de384",
+      "slug": "CraftyController",
+      "name": "Crafty Controller",
+      "icon": "/service-icons/CraftyController.png",
+      "website": "https://craftycontrol.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "f2e1d605503ee2ffa3f54f836c0503e8328b9fb5",
+      "slug": "Crater",
+      "name": "Crater",
+      "icon": "/service-icons/Crater.png",
+      "website": "https://craterapp.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "004b2540e793fe81bf90826fda3ed26917449d07",
+      "slug": "Cronicle",
+      "name": "Cronicle",
+      "icon": "/service-icons/Cronicle.png",
+      "website": "https://cronicle.net/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "3fd3c499757161cb316862b03f944b230f9aa883",
+      "slug": "CrontabUI",
+      "name": "Crontab UI",
+      "icon": "/service-icons/CrontabUI.png",
+      "website": "https://github.com/alseambusher/crontab-ui",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "3d6a86d0b53584491e13b12173441f0b945307d2",
+      "slug": "crowdsec",
+      "name": "crowdsec",
+      "icon": "/service-icons/crowdsec.png",
+      "website": "https://crowdsec.net/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e677af5c4f005d316f3a74b26b0134cfe5288033",
+      "slug": "CryptPad",
+      "name": "CryptPad",
+      "icon": "/service-icons/CryptPad.png",
+      "website": "https://cryptpad.fr",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "ad00c690d667f9dc6834a33aa36f56e2d3df78d9",
+      "slug": "Cup",
+      "name": "Cup",
+      "icon": "/service-icons/Cup.svg",
+      "website": "https://github.com/sergi0g/cup",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "ba8ed4dc9e438b22c9456a78a2c09652955be42c",
+      "slug": "CUPS",
+      "name": "CUPS",
+      "icon": "/service-icons/CUPS.svg",
+      "website": "https://www.cups.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "3e8ad678e7c68ee1d77c5296bb7bfb060159b731",
+      "slug": "Cyberchef",
+      "name": "Cyberchef",
+      "icon": "/service-icons/Cyberchef.png",
+      "website": "https://github.com/gchq/CyberChef",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "f5b1fb770977dca3fa174e80e7ba31f67feb16f0",
+      "slug": "DaloRadius",
+      "name": "DaloRadius",
+      "icon": "/service-icons/DaloRadius.png",
+      "website": "https://www.daloradius.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f3319963720d2293ed504bb1f5c1c4a879147a34",
+      "slug": "Dashdot",
+      "name": "Dashdot",
+      "icon": "/service-icons/Dashdot.png",
+      "website": "https://getdashdot.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "28446c7c7e4e5001daa704873d7a14cd9ea18835",
+      "slug": "dawarich",
+      "name": "dawarich",
+      "icon": "/service-icons/dawarich.png",
+      "website": "https://dawarich.app",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "120a5ee3b2867132f19e026e12a6310514a05f73",
+      "slug": "DDWRT",
+      "name": "DD-WRT",
+      "icon": "/service-icons/DDWRT.png",
+      "website": "https://dd-wrt.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "0b0dfdd43dc61e3b1dbd81e5b1ac67df75282223",
+      "slug": "DDNSUpdater",
+      "name": "DDNS Updater",
+      "icon": "/service-icons/DDNSUpdater.svg",
+      "website": "https://github.com/qdm12/ddns-updater",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "8cd24a534999cad2dccd971d700c7430e0bb15f2",
+      "slug": "DeclaRenta",
+      "name": "DeclaRenta",
+      "icon": "/service-icons/DeclaRenta.svg",
+      "website": "https://declarenta.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "42914e4d724a69b82428742ca3f19c44c740323e",
+      "slug": "deCONZ",
+      "name": "deCONZ",
+      "icon": "/service-icons/deCONZ.png",
+      "website": "https://github.com/dresden-elektronik/deconz-rest-plugin",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "bc28bfa49a73fd2384cbecd6572ea72d0166aa28",
+      "slug": "Deluge",
+      "name": "Deluge",
+      "icon": "/service-icons/Deluge.svg",
+      "website": "https://deluge-torrent.org",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "047a5440cad6772ebe1a7af1f286a2429f16bf43",
+      "slug": "Diaspora",
+      "name": "Diaspora",
+      "icon": "/service-icons/Diaspora.svg",
+      "website": "https://diasporafoundation.org/",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "3561ed8ae1660eadbe92128eedcff5e6f8e9280e",
+      "slug": "Dillinger",
+      "name": "Dillinger",
+      "icon": "/service-icons/Dillinger.png",
+      "website": "https://dillinger.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d8f39246e8c87704876f107fc4ca01c962abf53d",
+      "slug": "DirectAdmin",
+      "name": "DirectAdmin",
+      "icon": "/service-icons/DirectAdmin.svg",
+      "website": "https://www.directadmin.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "12764b8bb7cd332f7d4937851a2af2815df706ac",
+      "slug": "Directus",
+      "name": "Directus",
+      "icon": "/service-icons/Directus.png",
+      "website": "https://directus.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b461585d732c38b8b0ed0557735354a3c29a297c",
+      "slug": "DiscoPanel",
+      "name": "DiscoPanel",
+      "icon": "/service-icons/DiscoPanel.png",
+      "website": "https://discopanel.app/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "e2348236eff7d45bed8c77f3c1e9af82043be45d",
+      "slug": "Dispatcharr",
+      "name": "Dispatcharr",
+      "icon": "/service-icons/Dispatcharr.png",
+      "website": "https://github.com/dispatcharr/dispatcharr",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "3d31db14dadbacff762457487867dde4d8d64093",
+      "slug": "dizqueTV",
+      "name": "dizqueTV",
+      "icon": "/service-icons/dizqueTV.png",
+      "website": "https://github.com/vexorian/dizquetv",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "0bafb882c9d2c034ca5333367f8ccc90f4ae85e4",
+      "slug": "Dockge",
+      "name": "Dockge",
+      "icon": "/service-icons/Dockge.svg",
+      "website": "https://github.com/louislam/dockge",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "14cdcc4f0645b842a47f11be536ce133eda67728",
+      "slug": "Dockhand",
+      "name": "Dockhand",
+      "icon": "/service-icons/Dockhand.png",
+      "website": "https://dockhand.pro",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "ade537718e23004da7f5147d7d1faea477d60ad1",
+      "slug": "Docspell",
+      "name": "Docspell",
+      "icon": "/service-icons/Docspell.svg",
+      "website": "https://docspell.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a17f1a47dbc391814d321ae33ad51c0c7695a08d",
+      "slug": "DokuWiki",
+      "name": "DokuWiki",
+      "icon": "/service-icons/DokuWiki.png",
+      "website": "https://www.dokuwiki.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "17ea5305bc5cb99da61e121542864bb15e280f30",
+      "slug": "Domoticz",
+      "name": "Domoticz",
+      "icon": "/service-icons/Domoticz.png",
+      "website": "https://www.domoticz.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "45468267c4cf4e7260419a2a7c24bab37dc5cbe9",
+      "slug": "DoubleCommander",
+      "name": "Double Commander",
+      "icon": "/service-icons/DoubleCommander.svg",
+      "website": "https://doublecmd.sourceforge.io/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d7949b203a8e263045886ea3edb4fee50f742acd",
+      "slug": "DownloadStation",
+      "name": "Download Station",
+      "icon": "/service-icons/DownloadStation.png",
+      "website": "https://www.synology.com/en-global/dsm/packages/DownloadStation",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "176d99d897dbd7c02b1a1db4142054f74a76aa47",
+      "slug": "Dozzle",
+      "name": "Dozzle",
+      "icon": "/service-icons/Dozzle.svg",
+      "website": "https://dozzle.dev",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "af2b601ca8cc937fe779a8fe70a9d9a512e8ff81",
+      "slug": "drawDB",
+      "name": "drawDB",
+      "icon": "/service-icons/drawDB.png",
+      "website": "https://www.drawdb.app/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "56835c63945464ba216f114cc94810584fec0fb2",
+      "slug": "DrayTekVigor",
+      "name": "DrayTek Vigor",
+      "icon": "/service-icons/DrayTekVigor.png",
+      "website": "https://www.draytek.de/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1430fd26ed07651f08ab03098c8e6745701abf6a",
+      "slug": "Drone",
+      "name": "Drone",
+      "icon": "/service-icons/Drone.svg",
+      "website": "https://github.com/drone/drone",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "ff96f6956d6ce73ca564a5843157a9849a8f1c58",
+      "slug": "Droppy",
+      "name": "Droppy",
+      "icon": "/service-icons/Droppy.png",
+      "website": "https://github.com/silverwind/droppy",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "311aa8b0218a2cac6b81d9ed1bb7814531fbeb03",
+      "slug": "DuetWebControl",
+      "name": "Duet Web Control",
+      "icon": "/service-icons/DuetWebControl.png",
+      "website": "www.duet3d.com",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "16ef1d431149d2a08902873a443dbbe54c85cddb",
+      "slug": "Duo",
+      "name": "Duo",
+      "icon": "/service-icons/Duo.svg",
+      "website": "https://duo.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "9a5f55cd744dbbcb8b1cffdd748605565da9edce",
+      "slug": "Duplicacy",
+      "name": "Duplicacy",
+      "icon": "/service-icons/Duplicacy.png",
+      "website": "https://duplicacy.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "bc99430645db7c79e2901d65598bb8cf91f77b4e",
+      "slug": "Duplicati",
+      "name": "Duplicati",
+      "icon": "/service-icons/Duplicati.png",
+      "website": "https://www.duplicati.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "025deef2142c7dc28c9d3da1b0dd039111474ba8",
+      "slug": "EcoDMS",
+      "name": "EcoDMS",
+      "icon": "/service-icons/EcoDMS.png",
+      "website": "https://www.ecodms.de/de/ecodms-archiv",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "dece05484839df110745b0a800297c33cc078287",
+      "slug": "Element",
+      "name": "Element",
+      "icon": "/service-icons/Element.png",
+      "website": "https://element.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "3021fea57e9b932f14822d47e47d163f47812ef1",
+      "slug": "Emby",
+      "name": "Emby",
+      "icon": "/service-icons/Emby.png",
+      "website": "https://emby.media",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "226df5bc61e5f2e107911be546e20ef7f1397e07",
+      "slug": "EmbyStat",
+      "name": "EmbyStat",
+      "icon": "/service-icons/EmbyStat.png",
+      "website": "https://github.com/mregni/EmbyStat",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "299906b4afd579c56938d8049d0e6afe0fd6bb5b",
+      "slug": "EMQX",
+      "name": "EMQX",
+      "icon": "/service-icons/EMQX.svg",
+      "website": "https://www.emqx.io/",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "462cdf8246c243e628c69b4ca581ee7367cf7eb2",
+      "slug": "EmulatorJS",
+      "name": "EmulatorJS",
+      "icon": "/service-icons/EmulatorJS.png",
+      "website": "https://emulatorjs.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "5ac374ee16585535d77299357a600e284a43799b",
+      "slug": "Endurain",
+      "name": "Endurain",
+      "icon": "/service-icons/Endurain.png",
+      "website": "https://endurain.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "97cb396704f31765179458479da02b11300dae0c",
+      "slug": "ErsatzTV",
+      "name": "ErsatzTV",
+      "icon": "/service-icons/ErsatzTV.png",
+      "website": "https://ersatztv.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "28799c3309f7b95cbbae24997acc4822e10c5c17",
+      "slug": "ESETPROTECT",
+      "name": "ESET PROTECT",
+      "icon": "/service-icons/ESETPROTECT.png",
+      "website": "https://protect.eset.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "988e421cf9930626a983a2c6f1f4a80ce22b33f3",
+      "slug": "ESP3D",
+      "name": "ESP3D",
+      "icon": "/service-icons/ESP3D.png",
+      "website": "https://github.com/luc-github/ESP3D",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "6b1df10bbb1575fb941f402500ccb516ac34b542",
+      "slug": "ESPHome",
+      "name": "ESPHome",
+      "icon": "/service-icons/ESPHome.png",
+      "website": "https://esphome.io",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "0b0f769acf9c7ff5190df937cf4b57ec4036e56e",
+      "slug": "Etherpad",
+      "name": "Etherpad",
+      "icon": "/service-icons/Etherpad.png",
+      "website": "https://etherpad.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d31b835a2762114118c3bd608c5131ebcd6ee073",
+      "slug": "evcc",
+      "name": "evcc",
+      "icon": "/service-icons/evcc.png",
+      "website": "https://evcc.io/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ee9907b543b03f1f4fc5531332aea93b36152c69",
+      "slug": "Excalidraw",
+      "name": "Excalidraw",
+      "icon": "/service-icons/Excalidraw.png",
+      "website": "https://excalidraw.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f9348b8e7a8ec417b6bd3313537c5af11add7496",
+      "slug": "FHEM",
+      "name": "FHEM",
+      "icon": "/service-icons/FHEM.svg",
+      "website": "https://fhem.de/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "601c9ad5341b0ba351540520eabd0a6cb1526a86",
+      "slug": "FileBot",
+      "name": "FileBot",
+      "icon": "/service-icons/FileBot.svg",
+      "website": "https://www.filebot.net",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ba05dd8e070851895ee6184eb9778cfa0753a490",
+      "slug": "FileBrowser",
+      "name": "FileBrowser",
+      "icon": "/service-icons/FileBrowser.svg",
+      "website": "https://github.com/filebrowser/filebrowser",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d5d4adb30283d947c6ba6e072df1328b07b1c262",
+      "slug": "FileBrowserQuantum",
+      "name": "FileBrowser Quantum",
+      "icon": "/service-icons/FileBrowserQuantum.png",
+      "website": "https://github.com/gtsteffaniak/filebrowser",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a3440558df5c42ea2fdaf402aa9624d5ee586515",
+      "slug": "FileFlows",
+      "name": "FileFlows",
+      "icon": "/service-icons/FileFlows.png",
+      "website": "https://fileflows.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b8fa84fbe86d39557144410d201d466c53cb0c4e",
+      "slug": "FileRun",
+      "name": "FileRun",
+      "icon": "/service-icons/FileRun.svg",
+      "website": "https://filerun.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f798d73306e6c7b7145b163baf11d88f43c91527",
+      "slug": "Firefly3",
+      "name": "Firefly 3",
+      "icon": "/service-icons/Firefly3.png",
+      "website": "https://www.firefly-iii.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "675e42556cab1552e279e17a1f2a363e334fd2f0",
+      "slug": "FirefoxSend",
+      "name": "Firefox Send",
+      "icon": "/service-icons/FirefoxSend.png",
+      "website": "https://send.firefox.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "a1d41101adb784f6f664e1f48a0590cbb419b591",
+      "slug": "Firewalla",
+      "name": "Firewalla",
+      "icon": "/service-icons/Firewalla.png",
+      "website": "https://firewalla.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ce52dac0e197c667a331090485551e3b85980d7d",
+      "slug": "FlareSolverr",
+      "name": "FlareSolverr",
+      "icon": "/service-icons/FlareSolverr.png",
+      "website": "https://github.com/FlareSolverr/FlareSolverr",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b3edd4aee70ec3298ac00cf434081893ee4bc8a8",
+      "slug": "FleetStack",
+      "name": "Fleet Stack",
+      "icon": "/service-icons/FleetStack.svg",
+      "website": "https://fleetstackglobal.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "bbe5a51792acf2e90900e10d33bb02a86a50b6ff",
+      "slug": "FlexGet",
+      "name": "FlexGet",
+      "icon": "/service-icons/FlexGet.png",
+      "website": "https://www.flexget.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ff0db992256ad5c44c979bf4be0234a919eccdc7",
+      "slug": "Flood",
+      "name": "Flood",
+      "icon": "/service-icons/Flood.png",
+      "website": "https://github.com/jfurrow/flood",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "937e8ab4db3d27240fed84578ae01efd052828e2",
+      "slug": "Fluidd",
+      "name": "Fluidd",
+      "icon": "/service-icons/Fluidd.svg",
+      "website": "https://docs.fluidd.xyz/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "0619bf7cc62aeb10ccbf7566912d4d44bb42e7a5",
+      "slug": "Focalboard",
+      "name": "Focalboard",
+      "icon": "/service-icons/Focalboard.svg",
+      "website": "https://www.focalboard.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "36bee84171ec8bcd5df868cf6cfa1faf67b23008",
+      "slug": "FOGProject",
+      "name": "FOG Project",
+      "icon": "/service-icons/FOGProject.png",
+      "website": "https://fogproject.org/",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "d4f480701f176a366bb9175ce282f80d18da5122",
+      "slug": "FoldingHome",
+      "name": "Folding@Home",
+      "icon": "/service-icons/FoldingHome.svg",
+      "website": "https://foldingathome.org",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6465667a144214d8cba094ca3ad7866f043fe54a",
+      "slug": "Forgejo",
+      "name": "Forgejo",
+      "icon": "/service-icons/Forgejo.svg",
+      "website": "https://forgejo.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d73d4a8b6a6577d2b59781458c109bbfa8b9c221",
+      "slug": "Fortinet",
+      "name": "Fortinet",
+      "icon": "/service-icons/Fortinet.svg",
+      "website": "https://www.fortinet.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "4179f0ec44f292021561f0ef872892aaf604f670",
+      "slug": "FortinetFortiMonitor",
+      "name": "Fortinet FortiMonitor",
+      "icon": "/service-icons/FortinetFortiMonitor.png",
+      "website": "https://fortimonitor.forticloud.com",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "66f9dcaea3b08aaa9ad8c8f5f0d1fd9499b4203b",
+      "slug": "FoundryVTT",
+      "name": "FoundryVTT",
+      "icon": "/service-icons/FoundryVTT.png",
+      "website": "https://foundryvtt.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "02cb68c1129acf59561e2881df1f7bcb16d139da",
+      "slug": "FreeIPA",
+      "name": "FreeIPA",
+      "icon": "/service-icons/FreeIPA.png",
+      "website": "https://www.freeipa.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "3d258071fa9cd41a85627f6bf7fc6998c3a8f5cf",
+      "slug": "Freenas",
+      "name": "Freenas",
+      "icon": "/service-icons/Freenas.png",
+      "website": "https://www.freenas.org",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "370f94c68bf709289a0193e0a5c83c6fbd1ac06e",
+      "slug": "FreePBX",
+      "name": "FreePBX",
+      "icon": "/service-icons/FreePBX.png",
+      "website": "https://www.freepbx.org/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "5c68de7acdaff4da4f680545bb51a847840c81da",
+      "slug": "FreshRSS",
+      "name": "FreshRSS",
+      "icon": "/service-icons/FreshRSS.svg",
+      "website": "https://freshrss.org",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d1df19c8ce35dc448b460c9e9782a4d577b345ee",
+      "slug": "FreshTomato",
+      "name": "FreshTomato",
+      "icon": "/service-icons/FreshTomato.png",
+      "website": "https://freshtomato.org/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "d27d8db484c3e734262730b0673f158f1f88924d",
+      "slug": "Frigate",
+      "name": "Frigate",
+      "icon": "/service-icons/Frigate.svg",
+      "website": "https://frigate.video/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "36211c66ecd5984827673c89373ae184f06c000f",
+      "slug": "Fronius",
+      "name": "Fronius",
+      "icon": "/service-icons/Fronius.svg",
+      "website": "https://www.fronius.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "7853f58e7245aa624ddec1f97d7b4c18ac0047c7",
+      "slug": "Funkwhale",
+      "name": "Funkwhale",
+      "icon": "/service-icons/Funkwhale.svg",
+      "website": "https://funkwhale.audio",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f5253e62e0f2366eeeac7ce66fc6429b9b97776b",
+      "slug": "Gaps",
+      "name": "Gaps",
+      "icon": "/service-icons/Gaps.svg",
+      "website": "https://github.com/JasonHHouse/gaps",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "746aced590a184ef4169166e753f7c211e32e5fc",
+      "slug": "Gardener",
+      "name": "Gardener",
+      "icon": "/service-icons/Gardener.svg",
+      "website": "https://gardener.cloud",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "df713b8b4238000416a2a9f31e0e7697b31bec56",
+      "slug": "Gatus",
+      "name": "Gatus",
+      "icon": "/service-icons/Gatus.png",
+      "website": "https://gatus.io/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a15dcce1cea084a6585df29024d764c5f1b7a647",
+      "slug": "GenieACS",
+      "name": "GenieACS",
+      "icon": "/service-icons/GenieACS.png",
+      "website": "https://github.com/genieacs/genieacs",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "c4745785181de931cfd5bd79294cb1687d82aea9",
+      "slug": "Ghost",
+      "name": "Ghost",
+      "icon": "/service-icons/Ghost.png",
+      "website": "https://ghost.org",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "636e86d7a1a80e47d1ec19e6782e3700227c7603",
+      "slug": "Ghostfolio",
+      "name": "Ghostfolio",
+      "icon": "/service-icons/Ghostfolio.png",
+      "website": "https://ghostfol.io",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "060b3b99f88e96085b4a68e095bc9e3d1d91e1bc",
+      "slug": "Gitea",
+      "name": "Gitea",
+      "icon": "/service-icons/Gitea.svg",
+      "website": "https://gitea.io",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "64b2b6d12bfe4baae7dad3d018f8cbf6b0e7a044",
+      "slug": "GitHub",
+      "name": "GitHub",
+      "icon": "/service-icons/GitHub.svg",
+      "website": "https://github.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "322f31631de66bcf71bd6c199b41606d516fe3f9",
+      "slug": "GitLab",
+      "name": "GitLab",
+      "icon": "/service-icons/GitLab.svg",
+      "website": "https://gitlab.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "8acd9f66ec707deda1345479909166aa1c31bdad",
+      "slug": "Glances",
+      "name": "Glances",
+      "icon": "/service-icons/Glances.png",
+      "website": "https://nicolargo.github.io/glances",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6791b665d08a040b524c73c8800a9388dcc00b80",
+      "slug": "GlueTun",
+      "name": "GlueTun",
+      "icon": "/service-icons/GlueTun.svg",
+      "website": "https://github.com/qdm12/gluetun",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "95493920561b1c745f4f6eafb1572a1e17c26cc9",
+      "slug": "GNS3",
+      "name": "GNS3",
+      "icon": "/service-icons/GNS3.png",
+      "website": "https://www.gns3.com/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "7a0f2125bfba623eb4bfd23780e7d65364be32e7",
+      "slug": "Go2rtc",
+      "name": "Go2rtc",
+      "icon": "/service-icons/Go2rtc.png",
+      "website": "https://go2rtc.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "df505c6582933deef50ad5181747782f1f514713",
+      "slug": "Gogs",
+      "name": "Gogs",
+      "icon": "/service-icons/Gogs.png",
+      "website": "https://gogs.io",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b3fdc0b49deb0e7db32311b64867b000409193e5",
+      "slug": "Gotify",
+      "name": "Gotify",
+      "icon": "/service-icons/Gotify.png",
+      "website": "https://gotify.net",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "7f5f7cf0f04eb3b7c9e25e84150b2ed8db30be29",
+      "slug": "Gradio",
+      "name": "Gradio",
+      "icon": "/service-icons/Gradio.svg",
+      "website": "https://gradio.app/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f519bce8b0ae84d8dbbc0a793bf6a180043be855",
+      "slug": "Grafana",
+      "name": "Grafana",
+      "icon": "/service-icons/Grafana.svg",
+      "website": "https://grafana.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d939899925c863cdedc6c1ab845e56286a1052fd",
+      "slug": "GrampsWeb",
+      "name": "Gramps Web",
+      "icon": "/service-icons/GrampsWeb.png",
+      "website": "https://www.grampsweb.org/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "b1577ad1f7e68c2190f8c68885f945c855b0d5ea",
+      "slug": "Grav",
+      "name": "Grav",
+      "icon": "/service-icons/Grav.png",
+      "website": "https://getgrav.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "6d88bccf40bf65b911fe79d78c7af98e382f0c1a",
+      "slug": "Graylog",
+      "name": "Graylog",
+      "icon": "/service-icons/Graylog.svg",
+      "website": "https://www.graylog.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2ccd756b4e63f692aad310aeee9b157b853608a0",
+      "slug": "Grist",
+      "name": "Grist",
+      "icon": "/service-icons/Grist.png",
+      "website": "https://www.getgrist.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "c1292685cddb9472cece8e457c31fbf6446d5010",
+      "slug": "Grocy",
+      "name": "Grocy",
+      "icon": "/service-icons/Grocy.svg",
+      "website": "https://grocy.info",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "1c772e7ff575c76274b2ab9f90d82b428029b50b",
+      "slug": "Guacamole",
+      "name": "Guacamole",
+      "icon": "/service-icons/Guacamole.png",
+      "website": "https://guacamole.apache.org",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b96c7f74fe817b3fb2ea26bfefbf26efaffe6dea",
+      "slug": "Handbrake",
+      "name": "Handbrake",
+      "icon": "/service-icons/Handbrake.png",
+      "website": "https://handbrake.fr",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b6ac1c3e3b1f6f4296faceeb0eaeda83d1f578a4",
+      "slug": "HAProxy",
+      "name": "HAProxy",
+      "icon": "/service-icons/HAProxy.png",
+      "website": "http://www.haproxy.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e347660d52d87798674d406f8c820aa07835b0be",
+      "slug": "Harbor",
+      "name": "Harbor",
+      "icon": "/service-icons/Harbor.svg",
+      "website": "https://goharbor.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "241e4d951466ee4a38bde6aa73f7c8f0fab3a3f2",
+      "slug": "Hasura",
+      "name": "Hasura",
+      "icon": "/service-icons/Hasura.svg",
+      "website": "https://hasura.io",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "a3e644aa8fed6061d500ff1fbf3d6f4ef02b4adc",
+      "slug": "Hauk",
+      "name": "Hauk",
+      "icon": "/service-icons/Hauk.svg",
+      "website": "https://github.com/bilde2910/Hauk",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "8fe021dbb159e76695ab080421f68fac90579b0c",
+      "slug": "HDHomeRun",
+      "name": "HDHomeRun",
+      "icon": "/service-icons/HDHomeRun.png",
+      "website": "https://www.silicondust.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "355bf1cb47b9ff34cad71db2350056dfb2794c68",
+      "slug": "Headphones",
+      "name": "Headphones",
+      "icon": "/service-icons/Headphones.png",
+      "website": "https://github.com/rembo10/headphones",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2d97a1f26a2c0647566d6e0a1779a024607f9f1d",
+      "slug": "Healthchecks",
+      "name": "Healthchecks",
+      "icon": "/service-icons/Healthchecks.png",
+      "website": "https://healthchecks.io",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "b2005b3bb19b3916425998c0edd72b97667ec1fc",
+      "slug": "Heimdall",
+      "name": "Heimdall",
+      "icon": "/service-icons/Heimdall.png",
+      "website": "https://heimdall.site/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6d72e14bef55ca86ec69aec3225a3ea0e456d1b1",
+      "slug": "HiFiBerry",
+      "name": "HiFiBerry",
+      "icon": "/service-icons/HiFiBerry.svg",
+      "website": "https://www.hifiberry.com/hifiberryos/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b04259bb2c34972e8838c00a48a74ff3fba83247",
+      "slug": "Hoarder",
+      "name": "Hoarder",
+      "icon": "/service-icons/Hoarder.png",
+      "website": "https://hoarder.app/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "5c81a4f5ee23ebffa0724a22a040c54e6cb9d7c5",
+      "slug": "HomeAssistant",
+      "name": "HomeAssistant",
+      "icon": "/service-icons/HomeAssistant.svg",
+      "website": "https://www.home-assistant.io",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6a78706ccf3aece7d610edbd9da8b62e51215b6b",
+      "slug": "Homebox",
+      "name": "Homebox",
+      "icon": "/service-icons/Homebox.svg",
+      "website": "https://hay-kot.github.io/homebox/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "7d9fd30322f354d733c7c3b1b395f1655d12beb0",
+      "slug": "Homebridge",
+      "name": "Homebridge",
+      "icon": "/service-icons/Homebridge.svg",
+      "website": "https://homebridge.io",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "8a30fca9ea5b46722cbdad24c7470a442718cac8",
+      "slug": "Homer",
+      "name": "Homer",
+      "icon": "/service-icons/Homer.svg",
+      "website": "https://github.com/bastienwirtz/homer",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1f067dcc562bc16dc9ba987235e4da94d4027174",
+      "slug": "Homey",
+      "name": "Homey",
+      "icon": "/service-icons/Homey.svg",
+      "website": "https://my.homey.app/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "d530cf11cd8015b5e1907c298066e1537255e824",
+      "slug": "Hoobs",
+      "name": "Hoobs",
+      "icon": "/service-icons/Hoobs.png",
+      "website": "https://hoobs.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "41196627eacd06ca27010ac1fb07944e7bfa5216",
+      "slug": "Hoppscotch",
+      "name": "Hoppscotch",
+      "icon": "/service-icons/Hoppscotch.png",
+      "website": "https://github.com/hoppscotch/hoppscotch/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a52d4087451d21d48630f5aca0d48dea56af9954",
+      "slug": "HortusFox",
+      "name": "HortusFox",
+      "icon": "/service-icons/HortusFox.png",
+      "website": "https://www.hortusfox.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e79bac4ca442f484164741d7d41ea4e2426b308e",
+      "slug": "Hubitat",
+      "name": "Hubitat",
+      "icon": "/service-icons/Hubitat.png",
+      "website": "https://hubitat.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2403e3c8c1da513b11a77bf482cd494658695d05",
+      "slug": "Huginn",
+      "name": "Huginn",
+      "icon": "/service-icons/Huginn.png",
+      "website": "https://github.com/huginn/huginn",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "75bcbc48dbde2c6c7304098b6d4fb82041cbf8eb",
+      "slug": "Hydrawise",
+      "name": "Hydrawise",
+      "icon": "/service-icons/Hydrawise.png",
+      "website": "https://www.hydrawise.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "36a7ee9468bf3ea76bf41e4ea30ecf48c391ba92",
+      "slug": "Hyperion",
+      "name": "Hyperion",
+      "icon": "/service-icons/Hyperion.png",
+      "website": "https://hyperion-project.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "13a2a3d6e668c91b77ccc436162118ce7568ee4e",
+      "slug": "Icecast",
+      "name": "Icecast",
+      "icon": "/service-icons/Icecast.png",
+      "website": "https://icecast.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d483256e2837a012106afa135d3e4ba1a03c8ddb",
+      "slug": "IcingaWeb",
+      "name": "Icinga Web",
+      "icon": "/service-icons/IcingaWeb.svg",
+      "website": "https://icinga.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "2fa965004249898edbbd6030adfdb0ead5bc5f7c",
+      "slug": "iDRAC",
+      "name": "iDRAC",
+      "icon": "/service-icons/iDRAC.png",
+      "website": "https://dell.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "f3f825605559ba18fd17c39b4d96beae54d08160",
+      "slug": "iKuai",
+      "name": "iKuai",
+      "icon": "/service-icons/iKuai.png",
+      "website": "https://www.ikuai8.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ef49854fbbea334dbaf393d4b4ad9381cb931e91",
+      "slug": "iLO",
+      "name": "iLO",
+      "icon": "/service-icons/iLO.svg",
+      "website": "https://www.hpe.com/us/en/servers/integrated-lights-out-ilo.html",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "101e12b916274de5d628fad717f09c5ca302b5c2",
+      "slug": "Immich",
+      "name": "Immich",
+      "icon": "/service-icons/Immich.svg",
+      "website": "https://immich.app/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6b70f9fa9b583f9f6df49989bc1aab1ab5e4f90c",
+      "slug": "InfCloud",
+      "name": "InfCloud",
+      "icon": "/service-icons/InfCloud.svg",
+      "website": "https://inf-it.com/open-source/clients/infcloud/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "9d0f17acc4d034b4bf1bd958f633d0096be3e60c",
+      "slug": "Infisical",
+      "name": "Infisical",
+      "icon": "/service-icons/Infisical.svg",
+      "website": "https://infisical.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "5e1e914cba38acaa83d4e39139dadbec478fbb6e",
+      "slug": "InfluxDB",
+      "name": "InfluxDB",
+      "icon": "/service-icons/InfluxDB.svg",
+      "website": "https://www.influxdata.com/products/influxdb",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "c112604b5b33659f85dda854ac8bc271cb744b8a",
+      "slug": "Infoblox",
+      "name": "Infoblox",
+      "icon": "/service-icons/Infoblox.svg",
+      "website": "https://infoblox.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ffabb98c1f6147fb0a534168df44ab9982f5cb1b",
+      "slug": "InvenTree",
+      "name": "InvenTree",
+      "icon": "/service-icons/InvenTree.svg",
+      "website": "https://inventree.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "44aae3efe784b1886f020103d8344287be143c58",
+      "slug": "Invidious",
+      "name": "Invidious",
+      "icon": "/service-icons/Invidious.svg",
+      "website": "https://github.com/omarroth/invidious",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f4a9130aed175372c50f1b36cbc740193aed5fdf",
+      "slug": "InvoiceNinja",
+      "name": "Invoice Ninja",
+      "icon": "/service-icons/InvoiceNinja.png",
+      "website": "https://www.invoiceninja.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e3e34703718888700cefb3c28a0e52cb6a903ff0",
+      "slug": "ioBroker",
+      "name": "ioBroker",
+      "icon": "/service-icons/ioBroker.png",
+      "website": "https://www.iobroker.net",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "5aba62021841136792fe28f99031328b5ce05a79",
+      "slug": "IsardVDI",
+      "name": "IsardVDI",
+      "icon": "/service-icons/IsardVDI.png",
+      "website": "https://isardvdi.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "dd62089241256d5f36415bf5ff40ed4cea29210f",
+      "slug": "ISPConfig",
+      "name": "ISPConfig",
+      "icon": "/service-icons/ISPConfig.png",
+      "website": "ispconfig.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "b5f16344632fdfe68391a2dc3816ee0edbb1813c",
+      "slug": "ITTools",
+      "name": "IT-Tools",
+      "icon": "/service-icons/ITTools.png",
+      "website": "https://it-tools.tech/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "9d24b65315557ddd848ba44b09191a6ab305966f",
+      "slug": "Jackett",
+      "name": "Jackett",
+      "icon": "/service-icons/Jackett.svg",
+      "website": "https://github.com/Jackett/Jackett",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "917883dc82d936304725edacb6bf11e5cf537be6",
+      "slug": "Jaeger",
+      "name": "Jaeger",
+      "icon": "/service-icons/Jaeger.svg",
+      "website": "https://www.jaegertracing.io",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "af7b37e2841d9150f6abd5a936b32a1f681d6bda",
+      "slug": "JDownloader",
+      "name": "JDownloader",
+      "icon": "/service-icons/JDownloader.png",
+      "website": "http://jdownloader.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "5c64032d583b4cf000188a68c373d41b8e1b34c1",
+      "slug": "Jeedom",
+      "name": "Jeedom",
+      "icon": "/service-icons/Jeedom.png",
+      "website": "https://www.jeedom.com/site/fr",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "3e0a7f109bd760b9474c78cb652e8c3e82669226",
+      "slug": "Jellyfin",
+      "name": "Jellyfin",
+      "icon": "/service-icons/Jellyfin.svg",
+      "website": "https://jellyfin.github.io",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "0628c8d1a4868d6e6b994ae43a091f4e142ce642",
+      "slug": "Jellyseerr",
+      "name": "Jellyseerr",
+      "icon": "/service-icons/Jellyseerr.png",
+      "website": "https://github.com/Fallenbagel/jellyseerr",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b134790d9a8269a36013773814955539268e224a",
+      "slug": "Jellystat",
+      "name": "Jellystat",
+      "icon": "/service-icons/Jellystat.png",
+      "website": "https://github.com/CyferShepard/Jellystat",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d95b56ce41a2e1ac4cecdd398defd7414407cc08",
+      "slug": "Jenkins",
+      "name": "Jenkins",
+      "icon": "/service-icons/Jenkins.svg",
+      "website": "https://jenkins.io",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "3fb76ec47a9913f61e1bba0337af66ff0c59cc74",
+      "slug": "Jira",
+      "name": "Jira",
+      "icon": "/service-icons/Jira.svg",
+      "website": "https://www.atlassian.com/software/jira",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "5a70c37fbca520f2038e47bfa861665be9230deb",
+      "slug": "Jirafeau",
+      "name": "Jirafeau",
+      "icon": "/service-icons/Jirafeau.png",
+      "website": "https://jirafeau.net",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "5640232c98c04a627fbdcc1cb26cd34a4a0088bc",
+      "slug": "Jitsi",
+      "name": "Jitsi",
+      "icon": "/service-icons/Jitsi.png",
+      "website": "https://jitsi.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "1f87fdb388c8208f77da09b7507b59635fb7ddcb",
+      "slug": "Joomla",
+      "name": "Joomla",
+      "icon": "/service-icons/Joomla.png",
+      "website": "https://www.joomla.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "394b40695603f38f0f19fa50fe4f9d4041d98096",
+      "slug": "JoplinServer",
+      "name": "Joplin Server",
+      "icon": "/service-icons/JoplinServer.svg",
+      "website": "https://github.com/laurent22/joplin",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "7d93500c86ae587b3d9f4bf1b8cec36f221c8183",
+      "slug": "Jupyter",
+      "name": "Jupyter",
+      "icon": "/service-icons/Jupyter.svg",
+      "website": "https://jupyter.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "0edfdcc19462e0036ce81809af3a9d15559dbea4",
+      "slug": "Kaizoku",
+      "name": "Kaizoku",
+      "icon": "/service-icons/Kaizoku.png",
+      "website": "https://github.com/oae/kaizoku",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "43036744dd731a810155d82144c286cae5cb8ca3",
+      "slug": "Kanboard",
+      "name": "Kanboard",
+      "icon": "/service-icons/Kanboard.png",
+      "website": "https://kanboard.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "e8ce43d7274cd6a9c7da580c4ada6422b643a97a",
+      "slug": "KasmWorkspace",
+      "name": "Kasm Workspace",
+      "icon": "/service-icons/KasmWorkspace.png",
+      "website": "https://www.kasmweb.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "8723c0dde1d9bfcd51a899d800f8c5aede8baefa",
+      "slug": "KastenbyVeeam",
+      "name": "Kasten by Veeam",
+      "icon": "/service-icons/KastenbyVeeam.svg",
+      "website": "https://www.kasten.io/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "deebb60d4aafd710c8f6a4cfd917b570748f2c0c",
+      "slug": "Kavita",
+      "name": "Kavita",
+      "icon": "/service-icons/Kavita.svg",
+      "website": "https://www.kavitareader.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "4c1d1320b5b469d7de2b43841dff02ea1d29fbeb",
+      "slug": "Keptn",
+      "name": "Keptn",
+      "icon": "/service-icons/Keptn.svg",
+      "website": "https://keptn.sh/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d1081e351fbebe0deb0c2867d5f731c8f9cc3fd8",
+      "slug": "Keycloak",
+      "name": "Keycloak",
+      "icon": "/service-icons/Keycloak.svg",
+      "website": "https://www.keycloak.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "80d4015f1f71198cb285a89daf9796ebde0b5c29",
+      "slug": "Kibana",
+      "name": "Kibana",
+      "icon": "/service-icons/Kibana.png",
+      "website": "https://www.elastic.co/products/kibana",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "e928abf116d933773b1e4e31445213f1f1b01609",
+      "slug": "Kimai",
+      "name": "Kimai",
+      "icon": "/service-icons/Kimai.png",
+      "website": "https://www.kimai.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "dcd2c1d3cbc33b14e439da0d94c1451e70d7536e",
+      "slug": "Kitana",
+      "name": "Kitana",
+      "icon": "/service-icons/Kitana.png",
+      "website": "https://github.com/pannal/Kitana",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "1ea9ab2aad220f9bfce41a078ef59fbdfc88ff90",
+      "slug": "KitchenOwl",
+      "name": "KitchenOwl",
+      "icon": "/service-icons/KitchenOwl.png",
+      "website": "https://kitchenowl.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "8ac539a79155a0032834264ac3f6dbd38f1c812d",
+      "slug": "Kodi",
+      "name": "Kodi",
+      "icon": "/service-icons/Kodi.svg",
+      "website": "https://kodi.tv",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6cd97a5fefab651371f821cb5167733112fbc536",
+      "slug": "Komga",
+      "name": "Komga",
+      "icon": "/service-icons/Komga.svg",
+      "website": "https://komga.org",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e24e9b627d67e8241b91f63bd9c9cd0f3f97600a",
+      "slug": "KonomiTV",
+      "name": "KonomiTV",
+      "icon": "/service-icons/KonomiTV.svg",
+      "website": "https://github.com/tsukumijima/KonomiTV",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "22b161d97fbf69f88c548fa1dc938f0840abfd58",
+      "slug": "Kopia",
+      "name": "Kopia",
+      "icon": "/service-icons/Kopia.png",
+      "website": "https://kopia.io",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "556651b611ac6cb9876f54eb950084090e060846",
+      "slug": "Krusader",
+      "name": "Krusader",
+      "icon": "/service-icons/Krusader.svg",
+      "website": "https://krusader.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "211e5bfaaa8f220a748e1e9ef8a2513cb391f651",
+      "slug": "KubernetesDashboard",
+      "name": "Kubernetes Dashboard",
+      "icon": "/service-icons/KubernetesDashboard.svg",
+      "website": "https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "47a7dbae555c0a47121f8c5ff6a459905e3cbf64",
+      "slug": "Kutt",
+      "name": "Kutt",
+      "icon": "/service-icons/Kutt.png",
+      "website": "https://hub.docker.com/r/kutt/kutt",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "29c7e63664ad71de0023009767daaa9529c7a1f6",
+      "slug": "KuvaszUptime",
+      "name": "Kuvasz Uptime",
+      "icon": "/service-icons/KuvaszUptime.png",
+      "website": "https://kuvasz-uptime.dev/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "49eac3c78f71626d0364c2691336b2113daedf4c",
+      "slug": "LazyLibrarian",
+      "name": "LazyLibrarian",
+      "icon": "/service-icons/LazyLibrarian.png",
+      "website": "https://lazylibrarian.gitlab.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "48b8edcabb38cf25b257b7da1042eb8f19d16248",
+      "slug": "LemonLDAPNG",
+      "name": "LemonLDAP::NG",
+      "icon": "/service-icons/LemonLDAPNG.png",
+      "website": "https://lemonldap-ng.org/welcome",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "ec49215645f16a7f8f2b83538d86890df6c3f806",
+      "slug": "LibreChat",
+      "name": "LibreChat",
+      "icon": "/service-icons/LibreChat.png",
+      "website": "https://librechat.ai/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "3efb63c16a70f296c1cdb7992bd621c26423da99",
+      "slug": "LibreNMS",
+      "name": "LibreNMS",
+      "icon": "/service-icons/LibreNMS.png",
+      "website": "https://www.librenms.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "3771bfd8b92b695b317391d4e685d13fc9a14433",
+      "slug": "LibreSpeed",
+      "name": "LibreSpeed",
+      "icon": "/service-icons/LibreSpeed.png",
+      "website": "https://github.com/librespeed/speedtest",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "242efa52ba8851c3c166fbdab228a6deda829868",
+      "slug": "LibrisLog",
+      "name": "LibrisLog",
+      "icon": "/service-icons/LibrisLog.png",
+      "website": "https://github.com/codebude/librislog",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "c015fff30a3dc43f5987079c0142437e3e757fd0",
+      "slug": "Lidarr",
+      "name": "Lidarr",
+      "icon": "/service-icons/Lidarr.svg",
+      "website": "https://lidarr.audio",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "66a4c7134874924d5f7d33470e158ce3b2c8e12a",
+      "slug": "LimeSurvey",
+      "name": "LimeSurvey",
+      "icon": "/service-icons/LimeSurvey.svg",
+      "website": "https://community.limesurvey.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "c7eef6a399bb48a066d4e11fc577e896bc142cf3",
+      "slug": "LinkAce",
+      "name": "LinkAce",
+      "icon": "/service-icons/LinkAce.svg",
+      "website": "https://www.linkace.org",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1a039cf9812aee2944f3e2c472288fab189bc1a9",
+      "slug": "Linkding",
+      "name": "Linkding",
+      "icon": "/service-icons/Linkding.png",
+      "website": "https://linkding.link/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b6ab23b9afaaa5597a71515f5a12916d3a8a2ce1",
+      "slug": "LinkStack",
+      "name": "LinkStack",
+      "icon": "/service-icons/LinkStack.svg",
+      "website": "https://linkstack.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2566a0e890babb6f22648c25e5c6aba5530394d3",
+      "slug": "Linkwarden",
+      "name": "Linkwarden",
+      "icon": "/service-icons/Linkwarden.png",
+      "website": "https://linkwarden.app/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "a5b7013f56e4bedca9aaa8979a9c209fc5c6a12f",
+      "slug": "Listmonk",
+      "name": "Listmonk",
+      "icon": "/service-icons/Listmonk.png",
+      "website": "https://listmonk.app/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "e4bcfcdd06200423cf46de1194f0d8374f9aa851",
+      "slug": "Longevilab",
+      "name": "Longevilab",
+      "icon": "/service-icons/Longevilab.svg",
+      "website": "https://github.com/GeiserX/longevilab",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ae510f7c5ac32d35764a2c487fc09e07ef044840",
+      "slug": "Longhorn",
+      "name": "Longhorn",
+      "icon": "/service-icons/Longhorn.png",
+      "website": "https://longhorn.io/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "5d58f588ecf562a14b74980eddd4c8ef4396707f",
+      "slug": "Loxberry",
+      "name": "Loxberry",
+      "icon": "/service-icons/Loxberry.png",
+      "website": "https://wiki.loxberry.de/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "fa69c194633c13ae44e3d9850d52ce42ed829a09",
+      "slug": "LoxoneMiniserver",
+      "name": "Loxone Miniserver",
+      "icon": "/service-icons/LoxoneMiniserver.png",
+      "website": "https://www.loxone.com/enen/products/miniserver/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "43fbaa84d2e8f6cb4e5a8a8f00af49bbc4229e77",
+      "slug": "LubeLogger",
+      "name": "LubeLogger",
+      "icon": "/service-icons/LubeLogger.png",
+      "website": "https://lubelogger.com/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "4c1738fdd3a5743e76bc256be5e112d3e4dd511d",
+      "slug": "Lychee",
+      "name": "Lychee",
+      "icon": "/service-icons/Lychee.png",
+      "website": "https://lycheeorg.github.io",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "d91b91eb75b68151957d93d3ff7ed69982e7c16b",
+      "slug": "LynxPrompt",
+      "name": "LynxPrompt",
+      "icon": "/service-icons/LynxPrompt.svg",
+      "website": "https://lynxprompt.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "279cc164baa41cc77d53b1c3a33f6f263d930f6d",
+      "slug": "LyrionMusicServer",
+      "name": "Lyrion Music Server",
+      "icon": "/service-icons/LyrionMusicServer.png",
+      "website": "https://lyrion.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "18b260cfc9e5eab31fa2c005df43f63bf85c6927",
+      "slug": "MailArchiver",
+      "name": "Mail-Archiver",
+      "icon": "/service-icons/MailArchiver.png",
+      "website": "https://mail-archiver.org/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "4a5b795ca9f458e1454f96facf11c623d92d1659",
+      "slug": "MailCatcher",
+      "name": "MailCatcher",
+      "icon": "/service-icons/MailCatcher.png",
+      "website": "https://mailcatcher.me/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "aeabf6597d765c42d67abdc8c1918c8ec5b18cb8",
+      "slug": "Mailcow",
+      "name": "Mailcow",
+      "icon": "/service-icons/Mailcow.svg",
+      "website": "https://mailcow.email",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1ec48781d2c87a9e6dc9ee99e5eff0ab5958df09",
+      "slug": "MailcowSOGo",
+      "name": "Mailcow - SOGo",
+      "icon": "/service-icons/MailcowSOGo.svg",
+      "website": "https://sogo.nu",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "cffc32ba3ead25ff79a6f34e163b120cf68ab9e2",
+      "slug": "Mailhog",
+      "name": "Mailhog",
+      "icon": "/service-icons/Mailhog.png",
+      "website": "https://github.com/mailhog/MailHog",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "b3283d686c217e7f10392a96fabc093e6e2d0385",
+      "slug": "Mailpit",
+      "name": "Mailpit",
+      "icon": "/service-icons/Mailpit.svg",
+      "website": "https://mailpit.axllent.org/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "09eda098ec82bcf862df67933ef6451cdbab3a4b",
+      "slug": "Mailu",
+      "name": "Mailu",
+      "icon": "/service-icons/Mailu.png",
+      "website": "https://mailu.io/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "042c8e5dba563bf592d67d024ff2d66c011a9a69",
+      "slug": "Mainsail",
+      "name": "Mainsail",
+      "icon": "/service-icons/Mainsail.png",
+      "website": "https://github.com/meteyou/mainsail",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "34048cd0432f63fda7286fc2d843f0d68b4d28c5",
+      "slug": "Maintainerr",
+      "name": "Maintainerr",
+      "icon": "/service-icons/Maintainerr.svg",
+      "website": "https://maintainerr.info",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1708091e877bde8a70a629b3a86f5da21f31ebb1",
+      "slug": "maltrail",
+      "name": "maltrail",
+      "icon": "/service-icons/maltrail.png",
+      "website": "https://github.com/stamparm/maltrail",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "0efc652ff6792fef6190e3f066133e37a050e52a",
+      "slug": "Mastodon",
+      "name": "Mastodon",
+      "icon": "/service-icons/Mastodon.svg",
+      "website": "https://joinmastodon.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "59bce9723b0b9a5f802b30866d1d5581393d0627",
+      "slug": "Matomo",
+      "name": "Matomo",
+      "icon": "/service-icons/Matomo.svg",
+      "website": "https://matomo.org/",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "b3e1424fb69ca08481b03ad9d81e95488421997f",
+      "slug": "Mattermost",
+      "name": "Mattermost",
+      "icon": "/service-icons/Mattermost.png",
+      "website": "https://mattermost.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "9f2a83c4ebdbf57b0e5fd748f2b60bc604212137",
+      "slug": "Maxscale",
+      "name": "Maxscale",
+      "icon": "/service-icons/Maxscale.svg",
+      "website": "https://mariadb.com/products/maxscale/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "6b9e062ff02ea610df64e9b0eca1c973faf1b51d",
+      "slug": "MayanEDMS",
+      "name": "Mayan EDMS",
+      "icon": "/service-icons/MayanEDMS.png",
+      "website": "https://gitlab.com/mayan-edms/mayan-edms",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "c433a54cf606cf4a5f932ac264187e1daf54c7fe",
+      "slug": "MCServerSoft",
+      "name": "MC Server Soft",
+      "icon": "/service-icons/MCServerSoft.png",
+      "website": "https://mcserversoft.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1ca09632db905908f09e8c8e6fe6d64b6798aaaa",
+      "slug": "McMyAdmin",
+      "name": "McMyAdmin",
+      "icon": "/service-icons/McMyAdmin.png",
+      "website": "https://www.mcmyadmin.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "95fc71dc5b7a31e5a244df43f457a6eedc966ac9",
+      "slug": "Mealie",
+      "name": "Mealie",
+      "icon": "/service-icons/Mealie.png",
+      "website": "https://github.com/hay-kot/mealie",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "308beb12199fc0d4689f9aed47b444c098ead787",
+      "slug": "MediaElch",
+      "name": "MediaElch",
+      "icon": "/service-icons/MediaElch.png",
+      "website": "https://www.kvibes.de/mediaelch/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "deb54243dc08e689bef4021802675df7b0c753a6",
+      "slug": "MediaTracker",
+      "name": "MediaTracker",
+      "icon": "/service-icons/MediaTracker.svg",
+      "website": "https://github.com/bonukai/MediaTracker",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "67dcc2f0c9930fb08b0eaa39ad076264965b2bd6",
+      "slug": "MediaWiki",
+      "name": "MediaWiki",
+      "icon": "/service-icons/MediaWiki.png",
+      "website": "https://www.mediawiki.org/wiki/MediaWiki",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "7209e12ecf01afc45db4ff41be3602a898cf77f8",
+      "slug": "Medusa",
+      "name": "Medusa",
+      "icon": "/service-icons/Medusa.png",
+      "website": "https://pymedusa.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "3c4f323e2395d13e8c7ddc138b14dd34956978c6",
+      "slug": "Memos",
+      "name": "Memos",
+      "icon": "/service-icons/Memos.png",
+      "website": "https://github.com/usememos/memos",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "ad35ad6e82ecf7b9f4e279795d3ef30a496d2a21",
+      "slug": "Meraki",
+      "name": "Meraki",
+      "icon": "/service-icons/Meraki.png",
+      "website": "https://meraki.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "4a0a491219ae93bc0848b0d05efbe250ace4049c",
+      "slug": "Metabase",
+      "name": "Metabase",
+      "icon": "/service-icons/Metabase.svg",
+      "website": "https://www.metabase.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "d1c308982299c5face7a8b9bcf3f585ae08c13fd",
+      "slug": "MeTube",
+      "name": "MeTube",
+      "icon": "/service-icons/MeTube.png",
+      "website": "https://github.com/alexta69/metube",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2e4c755fb532733fa1e390dcfb12f5e0a2cd0f7d",
+      "slug": "Mikrotik",
+      "name": "Mikrotik",
+      "icon": "/service-icons/Mikrotik.png",
+      "website": "https://mikrotik.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "757ff43646cf978b954d695926049f0ce636e3df",
+      "slug": "MineOS",
+      "name": "MineOS",
+      "icon": "/service-icons/MineOS.png",
+      "website": "https://minecraft.codeemo.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "f1a89a23921939fc4ea89777cf9c7d6c08679fde",
+      "slug": "Miniflux",
+      "name": "Miniflux",
+      "icon": "/service-icons/Miniflux.png",
+      "website": "https://miniflux.app",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "30747605e1f6faad5d1cedb2c7953d31ffad3fd4",
+      "slug": "Minio",
+      "name": "Minio",
+      "icon": "/service-icons/Minio.png",
+      "website": "https://www.minio.io",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "fde400aa5aa198ae590a8b244df23fa5ef77aeb4",
+      "slug": "Miro",
+      "name": "Miro",
+      "icon": "/service-icons/Miro.svg",
+      "website": "https://miro.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "88e357f015f7262c750588a77fe776ba17af0567",
+      "slug": "MLDonkey",
+      "name": "MLDonkey",
+      "icon": "/service-icons/MLDonkey.png",
+      "website": "https://github.com/logicwar/mldonkey",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "f4ca93ed4d0bccbff31cd7eca4122be1d94523f0",
+      "slug": "MongoExpress",
+      "name": "Mongo Express",
+      "icon": "/service-icons/MongoExpress.png",
+      "website": "https://github.com/mongo-express/mongo-express",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "96d53734fc1bd54d848cd30f98069b90333b1bb3",
+      "slug": "Monica",
+      "name": "Monica",
+      "icon": "/service-icons/Monica.png",
+      "website": "https://www.monicahq.com",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "3568f62a517667d3dae77d47746d8382dd3b9f3b",
+      "slug": "Monit",
+      "name": "Monit",
+      "icon": "/service-icons/Monit.png",
+      "website": "https://mmonit.com/monit",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "44cd37665ac46421677ae877d56811e16fd9aacc",
+      "slug": "Montly",
+      "name": "Montly",
+      "icon": "/service-icons/Montly.svg",
+      "website": "https://azurecoder.dev/Montly/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "19bd1c6a4f62ecc721b771b42e71d2eaff67824e",
+      "slug": "MotionEye",
+      "name": "MotionEye",
+      "icon": "/service-icons/MotionEye.png",
+      "website": "https://github.com/ccrisan/motioneye",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "19a3b4c1126a8e16ac55ee7808cc76eab9ab066a",
+      "slug": "MQTTX",
+      "name": "MQTTX",
+      "icon": "/service-icons/MQTTX.png",
+      "website": "https://mqttx.app/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "756e9d172c05c14d07ff2428e6a75d5885bf5ae0",
+      "slug": "Munin",
+      "name": "Munin",
+      "icon": "/service-icons/Munin.png",
+      "website": "http://munin-monitoring.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "8962c794c6557b091455fdd5ad0d1fc7a266cfe7",
+      "slug": "MusicBrainz",
+      "name": "MusicBrainz",
+      "icon": "/service-icons/MusicBrainz.svg",
+      "website": "https://musicbrainz.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1c7c1eebcd96285956627a1d10006a6756d9c2b4",
+      "slug": "Mylar",
+      "name": "Mylar",
+      "icon": "/service-icons/Mylar.png",
+      "website": "https://github.com/evilhero/mylar",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ac2f9c8aee6a960204b0fb387d33185679217db2",
+      "slug": "MySpeed",
+      "name": "MySpeed",
+      "icon": "/service-icons/MySpeed.png",
+      "website": "https://myspeed.dev",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b69a8d8e93fa412531b8ef117c50ce520d71cd5a",
+      "slug": "N8n",
+      "name": "N8n",
+      "icon": "/service-icons/N8n.svg",
+      "website": "https://n8n.io",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "fe2d0a7a5b34951b6ec3c46184f1ed3eae19459d",
+      "slug": "Nagios",
+      "name": "Nagios",
+      "icon": "/service-icons/Nagios.png",
+      "website": "https://www.nagios.com/products/nagios-core",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "ef68db54814be4ea33bbb266852f7cc9a57701f4",
+      "slug": "Namer",
+      "name": "Namer",
+      "icon": "/service-icons/Namer.png",
+      "website": "https://github.com/theporndatabase/namer",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "0e0c78c72d4215bccbe4a8ad0c0234bfb9998b88",
+      "slug": "NAS",
+      "name": "NAS",
+      "icon": "/service-icons/NAS.svg",
+      "website": "https://en.wikipedia.org/wiki/Network-attached_storage",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "fea877d4f0f1699da0f936f6f27d8cea307ef5e1",
+      "slug": "NAV",
+      "name": "NAV",
+      "icon": "/service-icons/NAV.svg",
+      "website": "https://nav.uninett.no",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "31e028553b33bf830e42d88a888ee1093e3dd591",
+      "slug": "Navidrome",
+      "name": "Navidrome",
+      "icon": "/service-icons/Navidrome.svg",
+      "website": "https://www.navidrome.org",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "c47466c999c3113a3291ab09cab20b0df630d8e8",
+      "slug": "Nessus",
+      "name": "Nessus",
+      "icon": "/service-icons/Nessus.png",
+      "website": "https://www.tenable.com/products/nessus",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "1995e66a94d6c03e0997a48670efae1a323d0b84",
+      "slug": "NetAlertX",
+      "name": "NetAlertX",
+      "icon": "/service-icons/NetAlertX.png",
+      "website": "https://netalertx.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "81bf08fbb240b662b17c0d837c5cb9f30a7e89e5",
+      "slug": "Netatmo",
+      "name": "Netatmo",
+      "icon": "/service-icons/Netatmo.png",
+      "website": "https://www.netatmo.com/en-us/weather",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "a9055c31eac02d3a9c7d84ceef49fdff47bad88b",
+      "slug": "Netbird",
+      "name": "Netbird",
+      "icon": "/service-icons/Netbird.svg",
+      "website": "https://netbird.io/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "3f903351ae2408404930a6af98e669510149abbd",
+      "slug": "Netboot",
+      "name": "Netboot",
+      "icon": "/service-icons/Netboot.png",
+      "website": "https://netboot.xyz",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b42bf8635b4e7c528339fd4e073ddc9fecf1e5a7",
+      "slug": "NetBox",
+      "name": "NetBox",
+      "icon": "/service-icons/NetBox.png",
+      "website": "https://github.com/netbox-community/netbox",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "810d3926feac8c1bd3957fdac48b6c9475b932d0",
+      "slug": "Netdata",
+      "name": "Netdata",
+      "icon": "/service-icons/Netdata.svg",
+      "website": "https://my-netdata.io",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "13121fb95b2b5da427d75de170f479bc8e53ef09",
+      "slug": "NetgearOrbi",
+      "name": "Netgear Orbi",
+      "icon": "/service-icons/NetgearOrbi.png",
+      "website": "https://www.netgear.com/de/home/wifi/mesh/orbi/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "26f4d706681b01c78c47bff7ea009845f9ed57ac",
+      "slug": "NetworkUPSTools",
+      "name": "Network UPS Tools",
+      "icon": "/service-icons/NetworkUPSTools.png",
+      "website": "https://networkupstools.org/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f2baa52d02ca888455ce47823f47bf372d5eecb3",
+      "slug": "Nextcloud",
+      "name": "Nextcloud",
+      "icon": "/service-icons/Nextcloud.svg",
+      "website": "https://nextcloud.com",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f87b547abd61176450fe7486038f8f2c42943bc6",
+      "slug": "NextcloudTalk",
+      "name": "Nextcloud Talk",
+      "icon": "/service-icons/NextcloudTalk.png",
+      "website": "https://nextcloud.com/talk/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "ee217c6ffa53ca5f23650cc480b4e1d90755e289",
+      "slug": "NextDNS",
+      "name": "NextDNS",
+      "icon": "/service-icons/NextDNS.svg",
+      "website": "https://www.nextdns.io/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "53896bde33bf55b8f69c20145a9dc72dc59204d0",
+      "slug": "NexusDashboard",
+      "name": "Nexus Dashboard",
+      "icon": "/service-icons/NexusDashboard.png",
+      "website": "https://github.com/DarkflameUniverse/NexusDashboard",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "90a7041cfbcecf6d11c2b8dfc599a07116d15ba6",
+      "slug": "NexusRepositoryManagerOSS3x",
+      "name": "Nexus Repository Manager OSS 3.x",
+      "icon": "/service-icons/NexusRepositoryManagerOSS3x.png",
+      "website": "https://www.sonatype.com/download-oss-sonatype",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "cbfad988a16a9fbcc1812bc206afcc1f73dd36de",
+      "slug": "NginxProxyManager",
+      "name": "Nginx Proxy Manager",
+      "icon": "/service-icons/NginxProxyManager.png",
+      "website": "https://nginxproxymanager.jc21.com",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "999e9b74413a19dc31feb621045d53623ca0e8b9",
+      "slug": "NginxUI",
+      "name": "Nginx UI",
+      "icon": "/service-icons/NginxUI.png",
+      "website": "https://nginxui.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "b0193185a6e5fe70dd102f701db350fbd0e79aa5",
+      "slug": "Nightscout",
+      "name": "Nightscout",
+      "icon": "/service-icons/Nightscout.png",
+      "website": "https://nightscout.github.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "570ecf8de333013382f0dc93aa7faacbccdee575",
+      "slug": "Nitter",
+      "name": "Nitter",
+      "icon": "/service-icons/Nitter.svg",
+      "website": "https://github.com/zedeus/nitter",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ca7eeb277689b9f5ec3f47392c5e86a7d5528f6e",
+      "slug": "NocoDB",
+      "name": "NocoDB",
+      "icon": "/service-icons/NocoDB.png",
+      "website": "https://nocodb.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1608962f5295ccc488f3103ea8df2c6d45c62c65",
+      "slug": "NodeRed",
+      "name": "Node-Red",
+      "icon": "/service-icons/NodeRed.png",
+      "website": "https://nodered.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "255152b7a2da117e832aefd33210bfbaa8534b43",
+      "slug": "NotifiarrClient",
+      "name": "Notifiarr (Client)",
+      "icon": "/service-icons/NotifiarrClient.png",
+      "website": "https://github.com/Notifiarr/notifiarr",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b3d874a5d85233d394ed569fc8f67f4864993308",
+      "slug": "NowShowing",
+      "name": "NowShowing",
+      "icon": "/service-icons/NowShowing.png",
+      "website": "https://github.com/ninthwalker/NowShowing",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "794cdf1bdd53d6a98d77ceadd79f647354cd821b",
+      "slug": "ntfy",
+      "name": "ntfy",
+      "icon": "/service-icons/ntfy.svg",
+      "website": "https://ntfy.sh/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "361f712137443a3d7f1047a4f470bcf0158cc6d6",
+      "slug": "ntopng",
+      "name": "ntopng",
+      "icon": "/service-icons/ntopng.png",
+      "website": "https://www.ntop.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "533dc2434d2aee76aac442ece4bcc94b53fd7246",
+      "slug": "NxFilter",
+      "name": "NxFilter",
+      "icon": "/service-icons/NxFilter.png",
+      "website": "https://nxfilter.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "31a7b1d936c4e8503bb446e5ff8ada669d1846bd",
+      "slug": "Nzbget",
+      "name": "Nzbget",
+      "icon": "/service-icons/Nzbget.png",
+      "website": "https://nzbget.net",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a5b4faf84287a35c98adc76f2117aa10d1ea6eb8",
+      "slug": "NZBHydra",
+      "name": "NZBHydra",
+      "icon": "/service-icons/NZBHydra.png",
+      "website": "https://github.com/theotherp/nzbhydra2",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "94517207d6864215269c5fab0cc9e928272372bd",
+      "slug": "Obsidian",
+      "name": "Obsidian",
+      "icon": "/service-icons/Obsidian.png",
+      "website": "https://obsidian.md/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "99be0df8034cbcd7b5dfb3290839f7db21c1acbb",
+      "slug": "Octoprint",
+      "name": "Octoprint",
+      "icon": "/service-icons/Octoprint.png",
+      "website": "https://octoprint.org",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "5835041c77aa9f56cd2c4f97de2af9c41fbf7eb6",
+      "slug": "OliveTin",
+      "name": "OliveTin",
+      "icon": "/service-icons/OliveTin.png",
+      "website": "http://olivetin.app",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "aeddfb31b642e8e30591a99b3b3c30b8a765be32",
+      "slug": "OmadaSDNController",
+      "name": "Omada SDN Controller",
+      "icon": "/service-icons/OmadaSDNController.png",
+      "website": "https://www.tp-link.com/us/omada-sdn",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "57b25ceb94bd4c9ba9038ce17656f5ede9007e4c",
+      "slug": "Ombi",
+      "name": "Ombi",
+      "icon": "/service-icons/Ombi.png",
+      "website": "https://ombi.io",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "fc4e407d69510b855b678aa4fba6083fbbfc5383",
+      "slug": "OnlyOffice",
+      "name": "OnlyOffice",
+      "icon": "/service-icons/OnlyOffice.png",
+      "website": "https://www.onlyoffice.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "ac0fea3a3005484f1afcda501930eab3f21f8393",
+      "slug": "OpenWebUI",
+      "name": "Open WebUI",
+      "icon": "/service-icons/OpenWebUI.svg",
+      "website": "https://github.com/open-webui/open-webui",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "1c36496854b388a2ba3b6c57d68ef8295c9b8bb1",
+      "slug": "Openbooks",
+      "name": "Openbooks",
+      "icon": "/service-icons/Openbooks.png",
+      "website": "https://github.com/evan-buss/openbooks",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "8d96806a3f71da78a9db26375c3054f0e43fbe35",
+      "slug": "OpenCCU",
+      "name": "OpenCCU",
+      "icon": "/service-icons/OpenCCU.svg",
+      "website": "https://openccu.de/de/start/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "c0e408a0ac1ea21e5206e43deb9e95d3381f7f5f",
+      "slug": "OpenClaw",
+      "name": "OpenClaw",
+      "icon": "/service-icons/OpenClaw.svg",
+      "website": "https://github.com/openclaw/openclaw",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "c6a4fe0b25a74497e966f279f5186c99e5ce30e3",
+      "slug": "openHAB",
+      "name": "openHAB",
+      "icon": "/service-icons/openHAB.png",
+      "website": "https://www.openhab.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "ce88c5ed9d12b302762ca57ee01d494b96466946",
+      "slug": "OpenMapTiler",
+      "name": "OpenMapTiler",
+      "icon": "/service-icons/OpenMapTiler.png",
+      "website": "https://openmaptiles.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "68a90a2f21aad7a09a3533a2c6ab9a03dc94af49",
+      "slug": "openmediavault",
+      "name": "openmediavault",
+      "icon": "/service-icons/openmediavault.svg",
+      "website": "https://www.openmediavault.org",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2068f0670eb019ceef8a2f826b111c3ade317424",
+      "slug": "OpenObserve",
+      "name": "OpenObserve",
+      "icon": "/service-icons/OpenObserve.png",
+      "website": "https://openobserve.ai/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a42cc8d686807c59dc3858e14faf1028d766abf0",
+      "slug": "OpenSpeedTest",
+      "name": "OpenSpeedTest",
+      "icon": "/service-icons/OpenSpeedTest.png",
+      "website": "https://openspeedtest.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "bd1d7a45d17d62fd7db0c3f69e8a52661eedcc5b",
+      "slug": "OpenSprinkler",
+      "name": "OpenSprinkler",
+      "icon": "/service-icons/OpenSprinkler.png",
+      "website": "https://opensprinkler.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "5d53e53a12af92b47e8c11af1a399b23b67efb61",
+      "slug": "openvscodeserver",
+      "name": "openvscode-server",
+      "icon": "/service-icons/openvscodeserver.png",
+      "website": "https://github.com/gitpod-io/openvscode-server",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "721f85901503a74546b5eefb49b7fa894eebed78",
+      "slug": "OpenWeatherMap",
+      "name": "OpenWeatherMap",
+      "icon": "/service-icons/OpenWeatherMap.svg",
+      "website": "https://openweathermap.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "9b934cf284d9b196f48b43876d3e01912797242c",
+      "slug": "OpenWrt",
+      "name": "OpenWrt",
+      "icon": "/service-icons/OpenWrt.png",
+      "website": "https://openwrt.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "b7dcd77029f908fb21195dd01e29882ca52d4f3a",
+      "slug": "OPNsense",
+      "name": "OPNsense",
+      "icon": "/service-icons/OPNsense.png",
+      "website": "https://opnsense.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "298f672b08d83259020ba52c1f55eb16958d790b",
+      "slug": "OracleCloudInfrastructure",
+      "name": "Oracle Cloud Infrastructure",
+      "icon": "/service-icons/OracleCloudInfrastructure.svg",
+      "website": "https://oraclecloud.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "02f02a7c90fb8c6593508fbf2c572d23881a0846",
+      "slug": "Organizr",
+      "name": "Organizr",
+      "icon": "/service-icons/Organizr.png",
+      "website": "https://organizr.app/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "46ede88d6d440af5d3c7cc70cabbab6722245acd",
+      "slug": "Oscarr",
+      "name": "Oscarr",
+      "icon": "/service-icons/Oscarr.svg",
+      "website": "https://github.com/morpheus65535/oscarr",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "727706dbdf86b593f7be63c2fcca20718fd8caca",
+      "slug": "osTicket",
+      "name": "osTicket",
+      "icon": "/service-icons/osTicket.png",
+      "website": "https://osticket.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b9c04e18537f46a9eaea5dc4cc4edf8734c34251",
+      "slug": "Overleaf",
+      "name": "Overleaf",
+      "icon": "/service-icons/Overleaf.svg",
+      "website": "https://github.com/overleaf/overleaf",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "989fb18945a331b430fc284edfe6451aa760f8e6",
+      "slug": "Overseerr",
+      "name": "Overseerr",
+      "icon": "/service-icons/Overseerr.svg",
+      "website": "https://github.com/sct/overseerr",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "c8a6ea616b768fefc48e461390de52d11d36cfb4",
+      "slug": "oVirt",
+      "name": "oVirt",
+      "icon": "/service-icons/oVirt.svg",
+      "website": "https://ovirt.org",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "668b5fcda851fe516fef14e82973beffe32f385a",
+      "slug": "ownCloud",
+      "name": "ownCloud",
+      "icon": "/service-icons/ownCloud.png",
+      "website": "https://owncloud.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "742fb53dbb4fac003115e7f6ec7c46f39c797040",
+      "slug": "OwnPhotos",
+      "name": "OwnPhotos",
+      "icon": "/service-icons/OwnPhotos.png",
+      "website": "https://github.com/hooram/ownphotos",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "ff68f5a8067e10d57389789cf4dce660b9e02014",
+      "slug": "OwnTone",
+      "name": "OwnTone",
+      "icon": "/service-icons/OwnTone.svg",
+      "website": "https://owntone.github.io/owntone-server/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "5f5b783544928a3c583cbeb4872e75351c56ad0d",
+      "slug": "PacketFence",
+      "name": "PacketFence",
+      "icon": "/service-icons/PacketFence.svg",
+      "website": "https://www.packetfence.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "710f91b65aed9bbc884898b19b6b4bb17ec5b32c",
+      "slug": "PaloAltoNetworks",
+      "name": "Palo Alto Networks",
+      "icon": "/service-icons/PaloAltoNetworks.png",
+      "website": "https://www.paloaltonetworks.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "6249c08eaa417b9918c69ed2d32ac88b386bc1b2",
+      "slug": "Paperless",
+      "name": "Paperless",
+      "icon": "/service-icons/Paperless.png",
+      "website": "https://github.com/danielquinn/paperless",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "23e9c842d2423902706ae92996554f6fbd92c502",
+      "slug": "PaperlessNgx",
+      "name": "PaperlessNgx",
+      "icon": "/service-icons/PaperlessNgx.svg",
+      "website": "https://github.com/paperless-ngx/paperless-ngx",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e782bdad5e303d079375eac9d6b2bc03ed4fb7c5",
+      "slug": "Papermerge",
+      "name": "Papermerge",
+      "icon": "/service-icons/Papermerge.svg",
+      "website": "https://www.papermerge.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1194ad979d9724f6866d0d0f2347580a78a283cc",
+      "slug": "PartKeepr",
+      "name": "PartKeepr",
+      "icon": "/service-icons/PartKeepr.png",
+      "website": "https://partkeepr.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "cec6fe93657819abfba5ee23399b026f599fafe2",
+      "slug": "Passbolt",
+      "name": "Passbolt",
+      "icon": "/service-icons/Passbolt.png",
+      "website": "https://www.passbolt.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6b5a89dca3eb3952605e81e78038d24d083d98f6",
+      "slug": "PdfDing",
+      "name": "PdfDing",
+      "icon": "/service-icons/PdfDing.svg",
+      "website": "https://www.pdfding.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b14ab480028768cb748fd97de56144a304eb8a1a",
+      "slug": "PeaNUT",
+      "name": "PeaNUT",
+      "icon": "/service-icons/PeaNUT.svg",
+      "website": "https://github.com/Brandawg93/PeaNUT",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "bf096d8f5ce86ff113f6cad2a36d565dc0f13ffc",
+      "slug": "PeerTube",
+      "name": "PeerTube",
+      "icon": "/service-icons/PeerTube.png",
+      "website": "https://joinpeertube.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "da49a1e9075c69cdfdf788e6e17188c3f8f4f406",
+      "slug": "Petio",
+      "name": "Petio",
+      "icon": "/service-icons/Petio.png",
+      "website": "https://petio.tv/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "f8ac7f280fe53cea71efe29c42f0d3bca430c02d",
+      "slug": "pfSense",
+      "name": "pfSense",
+      "icon": "/service-icons/pfSense.svg",
+      "website": "https://www.pfsense.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "43784e464f66bfc0254a3bad48939f14a70c878e",
+      "slug": "pgAdmin",
+      "name": "pgAdmin",
+      "icon": "/service-icons/pgAdmin.png",
+      "website": "https://www.pgadmin.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1b43b0b5b06610b13a9db9074c12fdd831408f27",
+      "slug": "PhantomBot",
+      "name": "PhantomBot",
+      "icon": "/service-icons/PhantomBot.png",
+      "website": "https://phantombot.dev/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1d49c185b74e2b41addce38d2334000daf4c60d9",
+      "slug": "Phoscon",
+      "name": "Phoscon",
+      "icon": "/service-icons/Phoscon.svg",
+      "website": "https://phoscon.de/en/app/doc",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ec9dab93c7d9cba1c5171ed468dfee950b933c94",
+      "slug": "Photonix",
+      "name": "Photonix",
+      "icon": "/service-icons/Photonix.png",
+      "website": "https://photonix.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f60f5b25d59c397989e3cd374f81cdd7710a4fca",
+      "slug": "PhotoPrism",
+      "name": "PhotoPrism",
+      "icon": "/service-icons/PhotoPrism.png",
+      "website": "https://photoprism.org",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "d9946b11ca2139e9299705b734b94e3d3066d4ec",
+      "slug": "Photoview",
+      "name": "Photoview",
+      "icon": "/service-icons/Photoview.svg",
+      "website": "https://photoview.github.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "db44aad188b5bbe570bd96e3e5a9e7f0e893bc90",
+      "slug": "phpIPAM",
+      "name": "phpIPAM",
+      "icon": "/service-icons/phpIPAM.png",
+      "website": "https://phpipam.net",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "6a8263e6e3ad594a12e111f0f952e4cc57fe5077",
+      "slug": "phpLDAPadmin",
+      "name": "phpLDAPadmin",
+      "icon": "/service-icons/phpLDAPadmin.png",
+      "website": "http://phpldapadmin.sourceforge.net/wiki/index.php/Main_Page",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "51ca673ea8e89a868706fd309777a101ac63a409",
+      "slug": "phpMyAdmin",
+      "name": "phpMyAdmin",
+      "icon": "/service-icons/phpMyAdmin.png",
+      "website": "https://www.phpmyadmin.net",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "b89920409bdce40e08ba1023480b0546061cd577",
+      "slug": "Pihole",
+      "name": "Pi-hole",
+      "icon": "/service-icons/Pihole.svg",
+      "website": "https://pi-hole.net",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e7780295cba962fe2c4a2aa84c82794611b8942b",
+      "slug": "PiAlert",
+      "name": "Pi.Alert",
+      "icon": "/service-icons/PiAlert.png",
+      "website": "https://github.com/jokob-sk/Pi.Alert/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b897f0f558bc83256a49d5c7e8f1658d87cfe820",
+      "slug": "PiAware",
+      "name": "PiAware",
+      "icon": "/service-icons/PiAware.png",
+      "website": "https://github.com/flightaware/piaware",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f53c3236ce4e979407647afec9cd3d1f9b6401f2",
+      "slug": "PicApport",
+      "name": "PicApport",
+      "icon": "/service-icons/PicApport.png",
+      "website": "https://www.picapport.de/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "944f296a97feb3e99407cbf097a1f6aa1187cc02",
+      "slug": "PiGallery2",
+      "name": "PiGallery2",
+      "icon": "/service-icons/PiGallery2.png",
+      "website": "https://bpatrik.github.io/pigallery2/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "3c8ecb5a9c477237e32b3776922fce3fd6e8a514",
+      "slug": "PiKVM",
+      "name": "PiKVM",
+      "icon": "/service-icons/PiKVM.png",
+      "website": "https://pikvm.org/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "12bcbbf592b366f25c9160bd67646e781055c756",
+      "slug": "Pinchflat",
+      "name": "Pinchflat",
+      "icon": "/service-icons/Pinchflat.png",
+      "website": "https://github.com/kieraneglin/pinchflat",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e4acde0540ed4c95e59b1503fd2bd99c63da2ed8",
+      "slug": "Pinepods",
+      "name": "Pinepods",
+      "icon": "/service-icons/Pinepods.png",
+      "website": "https://www.pinepods.online/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "c0f951b12d14c47e4e488294584808ff31747eea",
+      "slug": "PiVPN",
+      "name": "PiVPN",
+      "icon": "/service-icons/PiVPN.png",
+      "website": "https://www.pivpn.io",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "73821d23ad8bb436e7478fec8305ad0636c17d7a",
+      "slug": "Piwigo",
+      "name": "Piwigo",
+      "icon": "/service-icons/Piwigo.png",
+      "website": "piwigo.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "df2165907007d3e76e6d7dbc5fdd29b731831bec",
+      "slug": "Plausible",
+      "name": "Plausible",
+      "icon": "/service-icons/Plausible.svg",
+      "website": "https://plausible.io/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "7ba6bc2c0f5fbf27166c29bc5b39f6527fb27835",
+      "slug": "Pleroma",
+      "name": "Pleroma",
+      "icon": "/service-icons/Pleroma.png",
+      "website": "https://pleroma.social",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "96bace2f6616fad61930a4ca021809c00a7e9e2a",
+      "slug": "Plesk",
+      "name": "Plesk",
+      "icon": "/service-icons/Plesk.png",
+      "website": "https://www.plesk.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "aebda823a279b219476c565be863d83739999502",
+      "slug": "Plex",
+      "name": "Plex",
+      "icon": "/service-icons/Plex.png",
+      "website": "https://www.plex.tv",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6dec25c0d43491eadaf519800e0dbf6adfe86f1a",
+      "slug": "PlexRequests",
+      "name": "PlexRequests",
+      "icon": "/service-icons/PlexRequests.png",
+      "website": "http://plexrequests.8bits.ca",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e5289e584b9daf86b4ee2b2b394696cdd99a07cf",
+      "slug": "Plume",
+      "name": "Plume",
+      "icon": "/service-icons/Plume.png",
+      "website": "https://joinplu.me",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "77b070a4835c69b30a347c63df3e3fcd490620d9",
+      "slug": "PocketID",
+      "name": "Pocket ID",
+      "icon": "/service-icons/PocketID.svg",
+      "website": "https://pocket-id.org/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "433dc2c56e482aa6d8bc5cfae5ac5e4ec3d0f752",
+      "slug": "PodFetch",
+      "name": "PodFetch",
+      "icon": "/service-icons/PodFetch.png",
+      "website": "https://github.com/SamTV12345/PodFetch",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "c5530bbf743a64309dd5f5530172098f80d62cf3",
+      "slug": "Podgrab",
+      "name": "Podgrab",
+      "icon": "/service-icons/Podgrab.png",
+      "website": "https://github.com/akhilrex/podgrab",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "07b796b3a10eaa8b6f485ed2379187a39400b459",
+      "slug": "Portainer",
+      "name": "Portainer",
+      "icon": "/service-icons/Portainer.svg",
+      "website": "https://portainer.io",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2122ac179c7fd90b194e114bf04175237afe54e4",
+      "slug": "Portall",
+      "name": "Portall",
+      "icon": "/service-icons/Portall.png",
+      "website": "https://github.com/need4swede/portall/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a28abde6e5a823e9c7115a94d71c3fc628a0efd4",
+      "slug": "Poste",
+      "name": "Poste",
+      "icon": "/service-icons/Poste.png",
+      "website": "https://poste.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "0e8ccac75b4a352edd0a0c2913b8799f92188fb5",
+      "slug": "PowerDNS",
+      "name": "PowerDNS",
+      "icon": "/service-icons/PowerDNS.png",
+      "website": "https://www.powerdns.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "3d3221b2db3115d65e938a1c497f209256c6185f",
+      "slug": "Printer",
+      "name": "Printer",
+      "icon": "/service-icons/Printer.png",
+      "website": "https://en.wikipedia.org/wiki/Printer_(computing)",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "87ecbead58e42b5ab9e1a92ccc0b42075f4fba91",
+      "slug": "Privatebin",
+      "name": "Privatebin",
+      "icon": "/service-icons/Privatebin.png",
+      "website": "https://privatebin.info",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "0edd090f35b41110e5723deb7d9e367f55cc5b7c",
+      "slug": "Profilarr",
+      "name": "Profilarr",
+      "icon": "/service-icons/Profilarr.png",
+      "website": "https://dictionarry.dev/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "91adc8832dfee8dea234877dad680682ab947980",
+      "slug": "ProjectSend",
+      "name": "ProjectSend",
+      "icon": "/service-icons/ProjectSend.png",
+      "website": "https://www.projectsend.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "aad8f23c2fa06d46c52ae4e06c8d4bdac6074b8f",
+      "slug": "Prometheus",
+      "name": "Prometheus",
+      "icon": "/service-icons/Prometheus.png",
+      "website": "https://prometheus.io",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "de6ff49c94538e6e13a77f75991141a4fe9af8bf",
+      "slug": "Prowlarr",
+      "name": "Prowlarr",
+      "icon": "/service-icons/Prowlarr.svg",
+      "website": "https://prowlarr.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "391f2b7f3fe853e1ea09723eeafc354fa291ab48",
+      "slug": "Proxmox",
+      "name": "Proxmox",
+      "icon": "/service-icons/Proxmox.svg",
+      "website": "https://www.proxmox.com/en/",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "e368337b94ce07c52ef5f319e18319b4fa2ac5c6",
+      "slug": "ProxmoxBackupServer",
+      "name": "Proxmox Backup Server",
+      "icon": "/service-icons/ProxmoxBackupServer.svg",
+      "website": "https://www.proxmox.com/en/proxmox-backup-server",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "0ea6cd5e52e84ef9afd444f5693d09d216b10ba2",
+      "slug": "PRTG",
+      "name": "PRTG",
+      "icon": "/service-icons/PRTG.png",
+      "website": "https://www.paessler.com/prtg",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "e5f6e96e960a08fa8f1fe702b45690cbc789ebc9",
+      "slug": "PrusaLink",
+      "name": "PrusaLink",
+      "icon": "/service-icons/PrusaLink.svg",
+      "website": "https://github.com/prusa3d/Prusa-Link-Web/tree/master",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1beb54ac8e91638c7a181fd04ca5a4a5ec5343c1",
+      "slug": "PsiTransfer",
+      "name": "PsiTransfer",
+      "icon": "/service-icons/PsiTransfer.png",
+      "website": "https://hub.docker.com/r/psitrax/psitransfer",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "0a5cd6b94160a13583653d188b5083c3fa3cacdf",
+      "slug": "Pterodactyl",
+      "name": "Pterodactyl",
+      "icon": "/service-icons/Pterodactyl.png",
+      "website": "https://pterodactyl.io",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "8439fc486bfe4e8c612f575df236838bdf996e9d",
+      "slug": "Pulse",
+      "name": "Pulse",
+      "icon": "/service-icons/Pulse.svg",
+      "website": "https://github.com/rcourtman/Pulse",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "310ea1af498fa26f8abee9c0b6bbd2343bc186d8",
+      "slug": "Pumperly",
+      "name": "Pumperly",
+      "icon": "/service-icons/Pumperly.svg",
+      "website": "https://pumperly.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "0e859100d4a94f55ca42b82db2dadce415aff7ad",
+      "slug": "pyLoad",
+      "name": "pyLoad",
+      "icon": "/service-icons/pyLoad.png",
+      "website": "https://pyload.net",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "9d59ddc6d6180fa396ba12515021d3471b3f2d0d",
+      "slug": "qBitManage",
+      "name": "qBit Manage",
+      "icon": "/service-icons/qBitManage.png",
+      "website": "https://github.com/StuffAnThings/qbit_manage",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "3ebd4dd8afe6308e392ccf09e3516eee99a1e8df",
+      "slug": "qBittorrent",
+      "name": "qBittorrent",
+      "icon": "/service-icons/qBittorrent.svg",
+      "website": "https://www.qbittorrent.org",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2119fac6806f60e4c5c9c843b535167c1e3e0b70",
+      "slug": "Qinglong",
+      "name": "Qinglong",
+      "icon": "/service-icons/Qinglong.png",
+      "website": "https://github.com/whyour/qinglong",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "4095a83996a808dfa4ef0e283b08fa3684596bb4",
+      "slug": "QNAP",
+      "name": "QNAP",
+      "icon": "/service-icons/QNAP.png",
+      "website": "https://www.qnap.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "61f611a4fd585e96d518c703dc7dcdeec8354e1c",
+      "slug": "qui",
+      "name": "qui",
+      "icon": "/service-icons/qui.png",
+      "website": "https://getqui.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d37a9628bc10a8816f3b679566d2505ab43b55a0",
+      "slug": "RabbitMQ",
+      "name": "RabbitMQ",
+      "icon": "/service-icons/RabbitMQ.svg",
+      "website": "https://www.rabbitmq.com/",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "8a5cd39a1a5dff323d63bbe45fffe0c9c03bd2e7",
+      "slug": "Radarr",
+      "name": "Radarr",
+      "icon": "/service-icons/Radarr.svg",
+      "website": "https://radarr.video",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "1a32a3959bddd2c1c26f47b06f7e21c29d48f653",
+      "slug": "Radicale",
+      "name": "Radicale",
+      "icon": "/service-icons/Radicale.svg",
+      "website": "https://radicale.org/v3.html",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "5f106e08a7eccd3e8a29978f275d5f33143e1bff",
+      "slug": "RadioGarden",
+      "name": "Radio Garden",
+      "icon": "/service-icons/RadioGarden.png",
+      "website": "https://radio.garden/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "10bde312e853977971f0fb1873afb70c713df2bf",
+      "slug": "Rainloop",
+      "name": "Rainloop",
+      "icon": "/service-icons/Rainloop.png",
+      "website": "https://www.rainloop.net",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "cb4fa9655f4c77e40e3a9c2a5e5841927fc7b8a6",
+      "slug": "Rancher",
+      "name": "Rancher",
+      "icon": "/service-icons/Rancher.svg",
+      "website": "https://rancher.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "8bfa46ba721763e4ee235d6a8caef46247735eda",
+      "slug": "Raneto",
+      "name": "Raneto",
+      "icon": "/service-icons/Raneto.png",
+      "website": "https://github.com/gilbitron/Raneto",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "506c7a7e21b5c2b750eccf8fdf91f072a9826f52",
+      "slug": "Rclone",
+      "name": "Rclone",
+      "icon": "/service-icons/Rclone.png",
+      "website": "https://rclone.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "79ed8d7ba9a16cdb777cdfef4c725c7ac14566d1",
+      "slug": "RdioScanner",
+      "name": "Rdio Scanner",
+      "icon": "/service-icons/RdioScanner.png",
+      "website": "https://github.com/chuot/rdio-scanner",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6c8d03f4ed15237d83bf1c556dd5cccf48b8f0dc",
+      "slug": "reDirector",
+      "name": "re:Director",
+      "icon": "/service-icons/reDirector.svg",
+      "website": "https://re-director.github.io/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "533ab349d29dba8f2ecc5a552ba8846a9453f82a",
+      "slug": "Readarr",
+      "name": "Readarr",
+      "icon": "/service-icons/Readarr.svg",
+      "website": "https://readarr.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "9ebfa3a7bc09302c2d7c55713d121bf073c9cc63",
+      "slug": "Readeck",
+      "name": "Readeck",
+      "icon": "/service-icons/Readeck.png",
+      "website": "https://readeck.org/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2960455d20b997408a0ea2b8ae16f334755bfa44",
+      "slug": "Reaparr",
+      "name": "Reaparr",
+      "icon": "/service-icons/Reaparr.png",
+      "website": "https://www.reaparr.rocks/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "8d6955fafc1996f6b6535739e8e2419d09e0d545",
+      "slug": "Recalbox",
+      "name": "Recalbox",
+      "icon": "/service-icons/Recalbox.png",
+      "website": "https://www.recalbox.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b840fc02d524045429941cc15f59e41cb7be6c52",
+      "slug": "redis",
+      "name": "redis",
+      "icon": "/service-icons/redis.png",
+      "website": "https://redis.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "13498df125d8e37dad6072bbe856f081d001148f",
+      "slug": "RedisCommander",
+      "name": "Redis-Commander",
+      "icon": "/service-icons/RedisCommander.png",
+      "website": "https://joeferner.github.io/redis-commander/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "fd3e5a20d3595a90e1b6d0243ab6e78ff18d68b4",
+      "slug": "RedisInsight",
+      "name": "RedisInsight",
+      "icon": "/service-icons/RedisInsight.svg",
+      "website": "https://redis.com/redis-enterprise/redis-insight/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "49700574309097bf89153cce1db2ea53c7844d99",
+      "slug": "Remmina",
+      "name": "Remmina",
+      "icon": "/service-icons/Remmina.svg",
+      "website": "https://remmina.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "cdb5795193209b8bbf0a1bd018b9b7dddf2bdc3f",
+      "slug": "ReportServer",
+      "name": "ReportServer",
+      "icon": "/service-icons/ReportServer.png",
+      "website": "https://reportserver.net/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "e7a69443c2470473fe7e5a90b049ec771472f6aa",
+      "slug": "Requestrr",
+      "name": "Requestrr",
+      "icon": "/service-icons/Requestrr.png",
+      "website": "https://github.com/darkalfx/requestrr",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "891934b3a775769d929fabfaf93520db8205eaf6",
+      "slug": "ResilioSync",
+      "name": "Resilio Sync",
+      "icon": "/service-icons/ResilioSync.png",
+      "website": "https://www.resilio.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "dc67119066c800ba083b3a2d7229145fbe5321fe",
+      "slug": "Revolt",
+      "name": "Revolt",
+      "icon": "/service-icons/Revolt.png",
+      "website": "https://revolt.chat/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "c3fdfdc6801bd71a615317cf54a113b3b0bc0bf4",
+      "slug": "RiotWeb",
+      "name": "Riot Web",
+      "icon": "/service-icons/RiotWeb.svg",
+      "website": "https://about.riot.im",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "eb7e7cd624a1170881103b23d78a4d6a9dc5536f",
+      "slug": "Robonect",
+      "name": "Robonect",
+      "icon": "/service-icons/Robonect.png",
+      "website": "www.robonect-shop.de",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "404b6861a94932750a70d2779fd785f018d90e36",
+      "slug": "RocketChat",
+      "name": "RocketChat",
+      "icon": "/service-icons/RocketChat.png",
+      "website": "https://rocket.chat",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2a3931f4ca016a139bcf5a97c85ee0a67825fe43",
+      "slug": "RomM",
+      "name": "RomM",
+      "icon": "/service-icons/RomM.png",
+      "website": "https://romm.app",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "f54fdb78762ce2a47c25c0fb8508141d72e29777",
+      "slug": "RompЯ",
+      "name": "RompЯ",
+      "icon": "/service-icons/RompЯ.png",
+      "website": "https://fatg3erman.github.io/RompR",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "0faa0037bf071040588c082c0c5c8dee3e11f2cd",
+      "slug": "Roundcube",
+      "name": "Roundcube",
+      "icon": "/service-icons/Roundcube.png",
+      "website": "https://roundcube.net",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "77eb1db6cb81b3cb088d36ab7aae8f230dcfaa28",
+      "slug": "Router",
+      "name": "Router",
+      "icon": "/service-icons/Router.svg",
+      "website": "https://en.wikipedia.org/wiki/Router_(computing)",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "5876529d5d47f91c435d9230576044bc4cad8547",
+      "slug": "Rspamd",
+      "name": "Rspamd",
+      "icon": "/service-icons/Rspamd.png",
+      "website": "https://rspamd.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b0fab9d908b0feb45ae719849642031f157d56ae",
+      "slug": "RSSBridge",
+      "name": "RSS-Bridge",
+      "icon": "/service-icons/RSSBridge.png",
+      "website": "https://rss-bridge.github.io/rss-bridge/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "4bd81355b682b80389770b2d9a4e5a4c5685de34",
+      "slug": "RSSHub",
+      "name": "RSSHub",
+      "icon": "/service-icons/RSSHub.png",
+      "website": "https://github.com/DIYgod/RSSHub",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "243338479393d415bba0b6a94f70db8dadd672db",
+      "slug": "RStudioServer",
+      "name": "RStudio Server",
+      "icon": "/service-icons/RStudioServer.png",
+      "website": "https://rstudio.com/products/rstudio/download-server",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "eea19d4cce28c77d2a0c1449a508d6290d00f9dd",
+      "slug": "Rundeck",
+      "name": "Rundeck",
+      "icon": "/service-icons/Rundeck.png",
+      "website": "https://www.rundeck.com/open-source",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "11f6ce44eb513a288ca4ef26cbbdb3fece2d6ec4",
+      "slug": "RuneAudio",
+      "name": "RuneAudio",
+      "icon": "/service-icons/RuneAudio.png",
+      "website": "http://www.runeaudio.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ec19893b57982731d953872ef92cdb5c680e62f4",
+      "slug": "Rustatio",
+      "name": "Rustatio",
+      "icon": "/service-icons/Rustatio.png",
+      "website": "https://takitsu21.github.io/rustatio-website/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "407dbd5343e971eb76054f9f81d04791cec937ff",
+      "slug": "Rustdesk",
+      "name": "Rustdesk",
+      "icon": "/service-icons/Rustdesk.png",
+      "website": "https://rustdesk.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "fbf13ee99afeadddc4f73e1183fd1b52774b3474",
+      "slug": "ruTorrent",
+      "name": "ruTorrent",
+      "icon": "/service-icons/ruTorrent.png",
+      "website": "https://github.com/Novik/ruTorrent",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ce14e2411b71060007063c5a8f590f5fc64a14cb",
+      "slug": "SEPIAOpenAssistant",
+      "name": "S.E.P.I.A. Open Assistant",
+      "icon": "/service-icons/SEPIAOpenAssistant.png",
+      "website": "https://github.com/SEPIA-Framework",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "7aa898759f1d210aaa5edc8a184bfe5e1668b5bd",
+      "slug": "SABnzbd",
+      "name": "SABnzbd",
+      "icon": "/service-icons/SABnzbd.svg",
+      "website": "https://sabnzbd.org",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "78af1f0ba45d09a9887c2a92ea4135edfedf19f4",
+      "slug": "ScratchMap",
+      "name": "Scratch Map",
+      "icon": "/service-icons/ScratchMap.png",
+      "website": "https://github.com/ad3m3r5/scratch-map",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "40892c1b428213c21516114ade1eaeb8fe26fc96",
+      "slug": "Scrutiny",
+      "name": "Scrutiny",
+      "icon": "/service-icons/Scrutiny.png",
+      "website": "https://github.com/AnalogJ/scrutiny",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f18e7d860a9886eb86bb406d2e9afdc6eb0bf67f",
+      "slug": "Scrypted",
+      "name": "Scrypted",
+      "icon": "/service-icons/Scrypted.png",
+      "website": "https://www.scrypted.app/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "055bbb599e68faa20cba22098b4802152b33b763",
+      "slug": "Seafile",
+      "name": "Seafile",
+      "icon": "/service-icons/Seafile.png",
+      "website": "https://www.seafile.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d3f896182b5c10b07918e295fce8c5aef054d266",
+      "slug": "SearxMetasearchEngine",
+      "name": "Searx Metasearch Engine",
+      "icon": "/service-icons/SearxMetasearchEngine.png",
+      "website": "https://searx.me",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "78db66ac2751c3f83776a8178b61915f36dd49d6",
+      "slug": "SearXNG",
+      "name": "SearXNG",
+      "icon": "/service-icons/SearXNG.svg",
+      "website": "https://searxng.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "8941259431327e65f98ef6f45f6e673039837daa",
+      "slug": "Seerr",
+      "name": "Seerr",
+      "icon": "/service-icons/Seerr.svg",
+      "website": "https://seerr.dev",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "0fffc087ecfce3ecb2ffea144d7b550bba9d832e",
+      "slug": "Selfoss",
+      "name": "Selfoss",
+      "icon": "/service-icons/Selfoss.png",
+      "website": "https://www.selfoss.aditu.de/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "59670495863d2d833ceb4584f3a57b866159aa8e",
+      "slug": "SemaphoreUI",
+      "name": "Semaphore UI",
+      "icon": "/service-icons/SemaphoreUI.png",
+      "website": "https://semaphoreui.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2a0d064dc49d4c6568604bb41c81e5d63c6c9e97",
+      "slug": "Servas",
+      "name": "Servas",
+      "icon": "/service-icons/Servas.svg",
+      "website": "https://servas.app/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "3de4f901fffb30ac720b0e7eb654b4faa2dd03fa",
+      "slug": "Server",
+      "name": "Server",
+      "icon": "/service-icons/Server.svg",
+      "website": "https://en.wikipedia.org/wiki/Server_(computing)",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "8830438516d806a81d3d2650afa14af4f61bec1f",
+      "slug": "Serviio",
+      "name": "Serviio",
+      "icon": "/service-icons/Serviio.png",
+      "website": "http://serviio.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "dc616e4c8950e8347b77334581bb126fdf171a86",
+      "slug": "sftpgo",
+      "name": "sftpgo",
+      "icon": "/service-icons/sftpgo.png",
+      "website": "https://github.com/drakkan/sftpgo",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "9db4c1b8312db195c8c176f4df4b31998bf1a534",
+      "slug": "Shaarli",
+      "name": "Shaarli",
+      "icon": "/service-icons/Shaarli.png",
+      "website": "https://github.com/shaarli/Shaarli",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "556ad74ef2ff6e53de1bb7fe3c68ede638e047a3",
+      "slug": "Shelfmark",
+      "name": "Shelfmark",
+      "icon": "/service-icons/Shelfmark.png",
+      "website": "https://github.com/calibrain/shelfmark",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e86ecd660f4e9dc4b3b7515318dbd8de6a836ef8",
+      "slug": "ShellinaBox",
+      "name": "Shell in a Box",
+      "icon": "/service-icons/ShellinaBox.png",
+      "website": "https://github.com/shellinabox/shellinabox",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "304c38e1914566a45eb705ba7315a638d25b44ce",
+      "slug": "ShellyPlug",
+      "name": "Shelly Plug",
+      "icon": "/service-icons/ShellyPlug.png",
+      "website": "https://www.shelly.com/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "dcf2874559e0304e2811c796cb873ae9aac07fa2",
+      "slug": "Shinobi",
+      "name": "Shinobi",
+      "icon": "/service-icons/Shinobi.png",
+      "website": "https://shinobi.video",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "f758b0b8b86303210695bf561763bf1d3aadfbb5",
+      "slug": "Shiori",
+      "name": "Shiori",
+      "icon": "/service-icons/Shiori.svg",
+      "website": "https://github.com/go-shiori/shiori",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d5150731970b061c918a555174c487df9ae52519",
+      "slug": "Shlink",
+      "name": "Shlink",
+      "icon": "/service-icons/Shlink.svg",
+      "website": "https://shlink.io/",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "668c248f02f52bcd8dbf072fa58801cdb73f90f4",
+      "slug": "Shoko",
+      "name": "Shoko",
+      "icon": "/service-icons/Shoko.svg",
+      "website": "https://shokoanime.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "23829a678218110cead136b504b2f256bd4bf2c7",
+      "slug": "Sickchill",
+      "name": "Sickchill",
+      "icon": "/service-icons/Sickchill.png",
+      "website": "https://sickchill.github.io",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "675dd93307bd5235a9b5da4268f9fee3d95d6235",
+      "slug": "SickGear",
+      "name": "SickGear",
+      "icon": "/service-icons/SickGear.png",
+      "website": "https://github.com/SickGear/SickGear",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "53faac78793ef7b8fa6adfa4627721b3f16d3181",
+      "slug": "SigNoz",
+      "name": "SigNoz",
+      "icon": "/service-icons/SigNoz.png",
+      "website": "https://signoz.io/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "294156eb5d1613ec8d4b15818f0df868ff279167",
+      "slug": "SillyTavern",
+      "name": "SillyTavern",
+      "icon": "/service-icons/SillyTavern.svg",
+      "website": "https://sillytavern.app/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "54e2511996db81ab4a76c429a898d15a46b099bb",
+      "slug": "Silverbullet",
+      "name": "Silverbullet",
+      "icon": "/service-icons/Silverbullet.png",
+      "website": "https://silverbullet.md/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "272d2e61a0588c1403f90aa403f2581308395c34",
+      "slug": "SiYuan",
+      "name": "SiYuan",
+      "icon": "/service-icons/SiYuan.png",
+      "website": "https://b3log.org/siyuan/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "0ffe6c3e1f43f953bcfe3a5adb50759b5938aa36",
+      "slug": "Slack",
+      "name": "Slack",
+      "icon": "/service-icons/Slack.svg",
+      "website": "https://slack.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "28818eb9f50c6d5102ad5e63536caa064a4b7c0b",
+      "slug": "Slskd",
+      "name": "Slskd",
+      "icon": "/service-icons/Slskd.svg",
+      "website": "https://github.com/slskd/slskd",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "38b75e97120cd04f721f89841db30c2b2ee02e34",
+      "slug": "SmokePing",
+      "name": "SmokePing",
+      "icon": "/service-icons/SmokePing.png",
+      "website": "https://oss.oetiker.ch/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "b914d6bc6d5e2eb2cb5c4722489521a6d949d8e3",
+      "slug": "Snapdrop",
+      "name": "Snapdrop",
+      "icon": "/service-icons/Snapdrop.png",
+      "website": "https://snapdrop.net",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6c050d5bdf522fa20599560ff0f6b74e7dcd97a8",
+      "slug": "Snibox",
+      "name": "Snibox",
+      "icon": "/service-icons/Snibox.png",
+      "website": "https://github.com/snibox/snibox",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1155d91648f7612882a2c4743e9422dae3d55f89",
+      "slug": "SnipeIT",
+      "name": "Snipe-IT",
+      "icon": "/service-icons/SnipeIT.png",
+      "website": "https://github.com/snipe/snipe-it",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "d143b3a76b72591495655c5257c7523456bdd736",
+      "slug": "SOGo",
+      "name": "SOGo",
+      "icon": "/service-icons/SOGo.svg",
+      "website": "https://sogo.nu",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "68b3ab5f7810a9984bd8f46d53de0abf35f613f9",
+      "slug": "SonarQube",
+      "name": "SonarQube",
+      "icon": "/service-icons/SonarQube.png",
+      "website": "https://www.sonarqube.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6e2a525ceb737f9ed8badcef5eb20d1502e39656",
+      "slug": "Sonarr",
+      "name": "Sonarr",
+      "icon": "/service-icons/Sonarr.svg",
+      "website": "https://sonarr.tv",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "cb9a368c22f1bf9d886b1d6d6703083d171066d3",
+      "slug": "SophosUTM9",
+      "name": "Sophos UTM 9",
+      "icon": "/service-icons/SophosUTM9.png",
+      "website": "https://www.sophos.com/en-us/products/unified-threat-management",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2ec817ffb73f534229d85ff2a0911fbf298f7e3b",
+      "slug": "SophosXG",
+      "name": "Sophos XG",
+      "icon": "/service-icons/SophosXG.svg",
+      "website": "https://www.sophos.com/en-us/products/next-gen-firewall",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f491c749924e2532e3b6c4496b94e03fd2b54f27",
+      "slug": "Sourcegraph",
+      "name": "Sourcegraph",
+      "icon": "/service-icons/Sourcegraph.png",
+      "website": "https://sourcegraph.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "70eb588e6586ce0584638943d81adc1f02d18a99",
+      "slug": "SparkyFitness",
+      "name": "SparkyFitness",
+      "icon": "/service-icons/SparkyFitness.png",
+      "website": "https://codewithcj.github.io/SparkyFitness/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "c106a4464d1b08d0e35edb92ddfabae6f9dc765f",
+      "slug": "SpeedtestTracker",
+      "name": "Speedtest Tracker",
+      "icon": "/service-icons/SpeedtestTracker.png",
+      "website": "https://github.com/alexjustesen/speedtest-tracker",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a0e4660cff5683237214967680366d2e938567c5",
+      "slug": "SPFToolbox",
+      "name": "SPFToolbox",
+      "icon": "/service-icons/SPFToolbox.png",
+      "website": "https://spftoolbox.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "c8714150b8061714a04b8cc146c8bf0210c05b62",
+      "slug": "Splunk",
+      "name": "Splunk",
+      "icon": "/service-icons/Splunk.png",
+      "website": "https://splunk.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "8d40ec161e2793d4ad3526e66d1723b2043780b6",
+      "slug": "Spotweb",
+      "name": "Spotweb",
+      "icon": "/service-icons/Spotweb.png",
+      "website": "https://github.com/spotweb/spotweb",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "dddd912a7abafef0d73bf3ca9e2575e33971c012",
+      "slug": "Squidex",
+      "name": "Squidex",
+      "icon": "/service-icons/Squidex.svg",
+      "website": "https://squidex.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "585815f2ee7291f96ea30333fd94d20b5722693f",
+      "slug": "Stash",
+      "name": "Stash",
+      "icon": "/service-icons/Stash.svg",
+      "website": "https://github.com/stashapp/stash",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2a7e2a851e5597e23c2be647eeda17d9105933ba",
+      "slug": "Statping",
+      "name": "Statping",
+      "icon": "/service-icons/Statping.png",
+      "website": "https://github.com/hunterlong/statping",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "dd4ddbba11a293a1c14a5a5148e49dcc94a495c8",
+      "slug": "StirlingPDF",
+      "name": "Stirling-PDF",
+      "icon": "/service-icons/StirlingPDF.svg",
+      "website": "https://github.com/Frooodle/Stirling-PDF",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "099f98ee10bbfb6796f005655b3b7c69607aec4e",
+      "slug": "STORJNode",
+      "name": "STORJ Node",
+      "icon": "/service-icons/STORJNode.svg",
+      "website": "https://www.storj.io/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "95a90a79d88c1edbf28748feeef8f2fdffecb346",
+      "slug": "Stork",
+      "name": "Stork",
+      "icon": "/service-icons/Stork.png",
+      "website": "https://www.isc.org/stork/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f2c4ab39ad8485316cf9f0ed6c5951629e324feb",
+      "slug": "Strapi",
+      "name": "Strapi",
+      "icon": "/service-icons/Strapi.png",
+      "website": "https://strapi.io",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "3e1575bb500ee1e3bb80d84d3a8fb2d90a707ba4",
+      "slug": "Streama",
+      "name": "Streama",
+      "icon": "/service-icons/Streama.png",
+      "website": "https://github.com/streamaserver/streama",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "edebac9035d9a829c0646e0597a1c7ff97fbbfef",
+      "slug": "Streamystats",
+      "name": "Streamystats",
+      "icon": "/service-icons/Streamystats.svg",
+      "website": "https://github.com/fredrikburmester/streamystats",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "35edd78007565fa64e6b239060a0d165ce005136",
+      "slug": "SuggestArr",
+      "name": "SuggestArr",
+      "icon": "/service-icons/SuggestArr.svg",
+      "website": "https://giuseppe99barchetta.github.io/SuggestArr/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "50d96de55ac484d4dfbe5b3dadd539386e2665e1",
+      "slug": "SuperMealPlanner",
+      "name": "SuperMealPlanner",
+      "icon": "/service-icons/SuperMealPlanner.png",
+      "website": "https://github.com/GeiserX/SuperMealPlanner",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "0680196c9ecb05c60ff8f8e757deff6fc7260754",
+      "slug": "SupermicroIPMI",
+      "name": "Supermicro IPMI",
+      "icon": "/service-icons/SupermicroIPMI.png",
+      "website": "https://www.supermicro.com/en/solutions/management-software/ipmi-utilities",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "35bc724730476a47cf18f92f486cd9e7745d4f15",
+      "slug": "Sympa",
+      "name": "Sympa",
+      "icon": "/service-icons/Sympa.svg",
+      "website": "https://www.sympa.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "361732e3fd1161330a49bebcccb955241621e1b1",
+      "slug": "Synclounge",
+      "name": "Synclounge",
+      "icon": "/service-icons/Synclounge.png",
+      "website": "https://github.com/samcm/SyncLounge",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "7775c3bbf580fbaf57818e68ce7b1b48b8f93b95",
+      "slug": "Syncthing",
+      "name": "Syncthing",
+      "icon": "/service-icons/Syncthing.svg",
+      "website": "https://syncthing.net",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "8521f6e426ad621f27a6b48be57a3c6056c9cfd3",
+      "slug": "Synology",
+      "name": "Synology",
+      "icon": "/service-icons/Synology.png",
+      "website": "http://synology.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "d742e0d991e7b6789c160f9c7c200b209341d38e",
+      "slug": "SynologyDrive",
+      "name": "Synology Drive",
+      "icon": "/service-icons/SynologyDrive.png",
+      "website": "https://www.synology.com/dsm/feature/drive",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "9d2560675433f5cf6deef39955dc43fce97740c7",
+      "slug": "SynologyPhoto",
+      "name": "Synology Photo",
+      "icon": "/service-icons/SynologyPhoto.png",
+      "website": "https://www.synology.com/dsm/feature/photos",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "dc532ce90cd95ce9570df2e3d85359e47aa24484",
+      "slug": "SynologySurveillanceStation",
+      "name": "Synology Surveillance Station",
+      "icon": "/service-icons/SynologySurveillanceStation.png",
+      "website": "https://www.synology.com/en-global/surveillance",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6d0bd8c6fb8879a4f20d36c05c096d688ef21ac7",
+      "slug": "TRex",
+      "name": "T-Rex",
+      "icon": "/service-icons/TRex.png",
+      "website": "https://trex-miner.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1de00f5662a5c44f3d23b50f9e13232cdd64f667",
+      "slug": "Tachidesk",
+      "name": "Tachidesk",
+      "icon": "/service-icons/Tachidesk.png",
+      "website": "https://github.com/Suwayomi/Tachidesk-Sorayomi",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "4c0f3ebde3d0c13fce8b4b02d1d80fea4123e07a",
+      "slug": "Taiga",
+      "name": "Taiga",
+      "icon": "/service-icons/Taiga.png",
+      "website": "https://taiga.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "15f90b18166400660896d011856a88cd88d68b33",
+      "slug": "Tailscale",
+      "name": "Tailscale",
+      "icon": "/service-icons/Tailscale.svg",
+      "website": "https://tailscale.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "343eebd3e9330c34952dcb3bc5c94ba12bf07a67",
+      "slug": "TandoorRecipes",
+      "name": "Tandoor Recipes",
+      "icon": "/service-icons/TandoorRecipes.svg",
+      "website": "https://docs.tandoor.dev",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "44fb3ee60816316d3c253e7454f5e0ab5f46680a",
+      "slug": "Tar1090",
+      "name": "Tar1090",
+      "icon": "/service-icons/Tar1090.png",
+      "website": "https://github.com/wiedehopf/tar1090",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "0c0c3373606e00d765583eaf1fc2c1bca6c09df3",
+      "slug": "Tartube",
+      "name": "Tartube",
+      "icon": "/service-icons/Tartube.png",
+      "website": "https://github.com/axcore/tartube",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ecf26dc5795ae2ccb3afbfa44570237590d65145",
+      "slug": "TasmoAdmin",
+      "name": "TasmoAdmin",
+      "icon": "/service-icons/TasmoAdmin.png",
+      "website": "https://github.com/reloxx13/TasmoAdmin",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "0d318b04d2442102c6a9643405bce18b5df5cf78",
+      "slug": "Tasmota",
+      "name": "Tasmota",
+      "icon": "/service-icons/Tasmota.png",
+      "website": "https://github.com/arendst/Tasmota",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "93ce76191583a25ac33c1918c5ad0b8a5f260451",
+      "slug": "Tautulli",
+      "name": "Tautulli",
+      "icon": "/service-icons/Tautulli.png",
+      "website": "https://tautulli.com",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "279db11ace3924a4a2a36dfd59a34e3bd352a5b4",
+      "slug": "Tdarr",
+      "name": "Tdarr",
+      "icon": "/service-icons/Tdarr.png",
+      "website": "https://github.com/HaveAGitGat/Tdarr",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "fe8ca35ebcfc6fa1fc949fbcac58e083a19f6381",
+      "slug": "TechnitiumDNS",
+      "name": "Technitium DNS",
+      "icon": "/service-icons/TechnitiumDNS.png",
+      "website": "https://technitium.com/dns",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "18bd5c19b49acc0a5030708e664fb1ed249a8fa5",
+      "slug": "Teedy",
+      "name": "Teedy",
+      "icon": "/service-icons/Teedy.png",
+      "website": "https://teedy.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "9e9c7b7efea19802e46c84b3df551196515ffc6b",
+      "slug": "TelegramArchive",
+      "name": "Telegram Archive",
+      "icon": "/service-icons/TelegramArchive.svg",
+      "website": "https://geiserx.github.io/Telegram-Archive/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "7eef5b1253eae1377f62e9c31efc638100e11854",
+      "slug": "Teleport",
+      "name": "Teleport",
+      "icon": "/service-icons/Teleport.svg",
+      "website": "https://goteleport.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "1125bbe3d5b6deae20bc936b74dbbdc109f208c9",
+      "slug": "Termix",
+      "name": "Termix",
+      "icon": "/service-icons/Termix.png",
+      "website": "https://docs.termix.site/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "3219c51b1c1d47f0771ef6a7b7f1e568505ea9cf",
+      "slug": "TeslaLogger",
+      "name": "TeslaLogger",
+      "icon": "/service-icons/TeslaLogger.png",
+      "website": "https://github.com/bassmaster187/TeslaLogger",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "dfa066512bcff7f6013c245ca08587bf6561d4e2",
+      "slug": "Teslamate",
+      "name": "Teslamate",
+      "icon": "/service-icons/Teslamate.svg",
+      "website": "https://github.com/adriankumpf/teslamate",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "5023ad25cdb679ee3bf1e659434da75ec0177924",
+      "slug": "TheLounge",
+      "name": "The Lounge",
+      "icon": "/service-icons/TheLounge.png",
+      "website": "https://thelounge.chat",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "98028de0432f62fda3283fc2e833f0d68c2a38d9",
+      "slug": "Threadfin",
+      "name": "Threadfin",
+      "icon": "/service-icons/Threadfin.svg",
+      "website": "https://github.com/Threadfin/Threadfin",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "4c49b707ba01c996a06cf551a899e1f1058775cf",
+      "slug": "ThreeTwo",
+      "name": "ThreeTwo",
+      "icon": "/service-icons/ThreeTwo.png",
+      "website": "https://github.com/rishighan/threetwo",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "9a83dce0e30910276872015367d926660780e6d8",
+      "slug": "TinyTinyRSS",
+      "name": "Tiny Tiny RSS",
+      "icon": "/service-icons/TinyTinyRSS.png",
+      "website": "https://tt-rss.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "67f7ed18fb98b30dc7ee328877f789de10be4227",
+      "slug": "Traccar",
+      "name": "Traccar",
+      "icon": "/service-icons/Traccar.png",
+      "website": "https://www.traccar.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "bd1c80be4150d0398a83fa59ef2a0c299dd0eaf4",
+      "slug": "Tracearr",
+      "name": "Tracearr",
+      "icon": "/service-icons/Tracearr.png",
+      "website": "https://tracearr.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a83e2ce54bbef3bef63aa7f02b08dbda7fdae4c5",
+      "slug": "Traefik",
+      "name": "Traefik",
+      "icon": "/service-icons/Traefik.svg",
+      "website": "https://traefik.io",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "394b7e306283697d80c5bc31f5b3c2c2e8c0aa60",
+      "slug": "Traggo",
+      "name": "Traggo",
+      "icon": "/service-icons/Traggo.png",
+      "website": "https://traggo.net/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "34899a33e3d7e33e1966b921ea250350fc71591a",
+      "slug": "Transmission",
+      "name": "Transmission",
+      "icon": "/service-icons/Transmission.svg",
+      "website": "https://transmissionbt.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "23514762999f69958d614449eeeefcee50239bcc",
+      "slug": "Trek",
+      "name": "Trek",
+      "icon": "/service-icons/Trek.svg",
+      "website": "https://github.com/liketrek/TREK",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "3add4f3aea6cc6eb1ec164d73b6935ce454b8f16",
+      "slug": "Trilium",
+      "name": "Trilium",
+      "icon": "/service-icons/Trilium.png",
+      "website": "https://github.com/zadam/trilium",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "63d0c2c2a5b5dc9f5eb5ebf32c3a5b3a26d3d047",
+      "slug": "TriliumNext",
+      "name": "TriliumNext",
+      "icon": "/service-icons/TriliumNext.svg",
+      "website": "https://triliumnext.github.io/Docs/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "07f6df4f81edd2e3dadf7e5fb56c37d6fb8acef4",
+      "slug": "TrueNAS",
+      "name": "TrueNAS",
+      "icon": "/service-icons/TrueNAS.png",
+      "website": "https://www.truenas.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "a1e408cd7144157cd6400993af4f68046bf77fd5",
+      "slug": "TrueNASCORE",
+      "name": "TrueNAS CORE",
+      "icon": "/service-icons/TrueNASCORE.png",
+      "website": "https://www.truenas.com/truenas-core",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "03eeace210850159a5e9d11ffe1f8923bc2f876b",
+      "slug": "TrueNASSCALE",
+      "name": "TrueNAS SCALE",
+      "icon": "/service-icons/TrueNASSCALE.png",
+      "website": "https://www.truenas.com/truenas-scale",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d91277cf6297f5da3e8515cf035ebf2463276d14",
+      "slug": "tubearchivist",
+      "name": "tubearchivist",
+      "icon": "/service-icons/tubearchivist.svg",
+      "website": "https://github.com/tubearchivist/tubearchivist",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ac61e1834dac0f75ea1ab6d3a23976ffc4f46b74",
+      "slug": "TVHeadend",
+      "name": "TVHeadend",
+      "icon": "/service-icons/TVHeadend.png",
+      "website": "https://tvheadend.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "0f39819ef48a5ad062e9329587b299839e099539",
+      "slug": "TwoFAuth",
+      "name": "TwoFAuth",
+      "icon": "/service-icons/TwoFAuth.png",
+      "website": "https://github.com/Bubka/2FAuth",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "6bf857ca7de026fbed4ae790a809a0ea640901f4",
+      "slug": "TYPO3",
+      "name": "TYPO3",
+      "icon": "/service-icons/TYPO3.svg",
+      "website": "https://typo3.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "cf79bd157a6af435240abdd8fbf9afb5f09abb7d",
+      "slug": "Ubooquity",
+      "name": "Ubooquity",
+      "icon": "/service-icons/Ubooquity.png",
+      "website": "https://vaemendis.net/ubooquity",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "0cf9b9d5b9d94890598627e2e54a44930218d6bc",
+      "slug": "UISP",
+      "name": "UISP",
+      "icon": "/service-icons/UISP.png",
+      "website": "https://uisp.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "7a86668cedf9000efc7fc0662036d4b42c375d41",
+      "slug": "umami",
+      "name": "umami",
+      "icon": "/service-icons/umami.png",
+      "website": "https://umami.is/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "8cdba423d7bb49fad21662247750cd715f08cdc5",
+      "slug": "UniFi",
+      "name": "UniFi",
+      "icon": "/service-icons/UniFi.svg",
+      "website": "https://ui.com",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a831f55ecba8054c0534210efcbb5cb9a3ea9b61",
+      "slug": "UniFiProtect",
+      "name": "UniFi Protect",
+      "icon": "/service-icons/UniFiProtect.png",
+      "website": "https://ui.com/camera-security",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "a7f4fea70f0cf1a13f6f279d8b5248eaa59debc9",
+      "slug": "UniversalMediaServer",
+      "name": "Universal Media Server",
+      "icon": "/service-icons/UniversalMediaServer.png",
+      "website": "https://www.universalmediaserver.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "c4727509e4ae21f95d5ba4634add6742e8520b2d",
+      "slug": "Unmanic",
+      "name": "Unmanic",
+      "icon": "/service-icons/Unmanic.png",
+      "website": "https://docs.unmanic.app/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "11b790731286c7538e27885bc827dc6f6ceb8db2",
+      "slug": "Unraid",
+      "name": "Unraid",
+      "icon": "/service-icons/Unraid.png",
+      "website": "https://unraid.net",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "007a0e9945af3d97b044437487ef659f6153a69e",
+      "slug": "UpSnap",
+      "name": "UpSnap",
+      "icon": "/service-icons/UpSnap.png",
+      "website": "https://github.com/seriousm4x/UpSnap",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "366c6646eedab83cc4b349f198424d2291cbfa76",
+      "slug": "UptimeKuma",
+      "name": "Uptime Kuma",
+      "icon": "/service-icons/UptimeKuma.svg",
+      "website": "https://uptime.kuma.pet",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "1e4e09b335de7b6397119636469ea4478ee39286",
+      "slug": "UptimeRobot",
+      "name": "UptimeRobot",
+      "icon": "/service-icons/UptimeRobot.svg",
+      "website": "https://uptimerobot.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "89f71687e2a69d7c9432b2ee76a9b638306e9fd5",
+      "slug": "UrBackup",
+      "name": "UrBackup",
+      "icon": "/service-icons/UrBackup.png",
+      "website": "https://www.urbackup.org",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "ff991f82a68ffaccf4ff305d0f9b9ae878d427ef",
+      "slug": "uTorrent",
+      "name": "uTorrent",
+      "icon": "/service-icons/uTorrent.svg",
+      "website": "https://www.utorrent.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "998d84b49df198a35d23f332e998fd371a94ade5",
+      "slug": "Valetudo",
+      "name": "Valetudo",
+      "icon": "/service-icons/Valetudo.png",
+      "website": "https://valetudo.cloud/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a64c89f2592b4dcccad86640cb7e063cc91e171e",
+      "slug": "Vault",
+      "name": "Vault",
+      "icon": "/service-icons/Vault.svg",
+      "website": "https://github.com/hashicorp/vault",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ddf4f264320af1347ef54d424c60fae3b4fcc448",
+      "slug": "Vaultwarden",
+      "name": "Vaultwarden",
+      "icon": "/service-icons/Vaultwarden.png",
+      "website": "https://github.com/dani-garcia/vaultwarden",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "b14a46e1ec25e3d44ed8ada019dbdac2fffc4be9",
+      "slug": "Verdaccio",
+      "name": "Verdaccio",
+      "icon": "/service-icons/Verdaccio.svg",
+      "website": "https://verdaccio.org/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "767c55408f5945f50235d1e51db641e0473da137",
+      "slug": "Vikunja",
+      "name": "Vikunja",
+      "icon": "/service-icons/Vikunja.png",
+      "website": "https://vikunja.io/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "5f0180fbeccdee64f7314b367e87e6994089f199",
+      "slug": "ViMbAdmin",
+      "name": "ViMbAdmin",
+      "icon": "/service-icons/ViMbAdmin.png",
+      "website": "https://www.vimbadmin.net",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "c934574c40a11992b08ce4e659ca23310916436c",
+      "slug": "VirtualRadarServer",
+      "name": "Virtual Radar Server",
+      "icon": "/service-icons/VirtualRadarServer.png",
+      "website": "https://www.virtualradarserver.co.uk",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "62484a2ddd0930286322c0a4364dd404951a1070",
+      "slug": "Virtualmin",
+      "name": "Virtualmin",
+      "icon": "/service-icons/Virtualmin.svg",
+      "website": "https://www.virtualmin.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "39d2762d5690a6ebeb6ac1615d3ee5d58b07ab7e",
+      "slug": "VMwareESXi",
+      "name": "VMware ESXi",
+      "icon": "/service-icons/VMwareESXi.png",
+      "website": "https://www.vmware.com/products/esxi-and-esx.html",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b63d3ad41413da4056fbae6dc0ebc190668b3545",
+      "slug": "vmwarehorizon",
+      "name": "vmware horizon",
+      "icon": "/service-icons/vmwarehorizon.png",
+      "website": "https://www.vmware.com/products/horizon.html",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a0a47ab17060b3437e3f16fed9cae275c7e8d43a",
+      "slug": "VMwarevCenter",
+      "name": "VMware vCenter",
+      "icon": "/service-icons/VMwarevCenter.png",
+      "website": "https://www.vmware.com/products/vcenter-server.html",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "90c60ebc78d163e508d41233af19bf9b31706012",
+      "slug": "Volumio",
+      "name": "Volumio",
+      "icon": "/service-icons/Volumio.png",
+      "website": "https://volumio.org",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "095afe286edc44dd8241e7a33138bc6d",
+      "slug": "VuPlus",
+      "name": "VuPlus",
+      "icon": "/service-icons/VuPlus.png",
+      "website": "http://vuplus.com",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "9dc07af7d1d88c183c6ae42c903650ab19ada2bb",
+      "slug": "Wallabag",
+      "name": "Wallabag",
+      "icon": "/service-icons/Wallabag.png",
+      "website": "https://www.wallabag.org/en",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "dc115cfaac280c4b97289484356c21428af565be",
+      "slug": "WaniKani",
+      "name": "WaniKani",
+      "icon": "/service-icons/WaniKani.png",
+      "website": "https://www.wanikani.com",
+      "enhanced": true,
+      "tileBackground": "light"
+    },
+    {
+      "id": "4b2f43c508665ee92867690b903d15031f233edd",
+      "slug": "warpgate",
+      "name": "warpgate",
+      "icon": "/service-icons/warpgate.svg",
+      "website": "https://github.com/warp-tech/warpgate",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "785ad2ec16dcf34b4fc83b025b930818c6372567",
+      "slug": "Watcher",
+      "name": "Watcher",
+      "icon": "/service-icons/Watcher.png",
+      "website": "https://github.com/nosmokingbandit/Watcher3",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "460b760a454371f18688c2deee5ccdd58de3595a",
+      "slug": "WatchState",
+      "name": "WatchState",
+      "icon": "/service-icons/WatchState.png",
+      "website": "https://github.com/arabcoders/watchstate",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "66677874230ee54d5864254125cf7f6c4527be08",
+      "slug": "Watchtower",
+      "name": "Watchtower",
+      "icon": "/service-icons/Watchtower.png",
+      "website": "https://watchtower.nickfedor.com/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "0ce375f04a38e9b0c433b393e76a7473fdfbf6fc",
+      "slug": "WatchYourLAN",
+      "name": "WatchYourLAN",
+      "icon": "/service-icons/WatchYourLAN.png",
+      "website": "https://github.com/aceberg/WatchYourLAN",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "f232d28815f00b238d69440000cc0cedafa51b8c",
+      "slug": "Wazuh",
+      "name": "Wazuh",
+      "icon": "/service-icons/Wazuh.png",
+      "website": "https://wazuh.com/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e5faa1115b47858ba769c281e7ecd327fbb981ea",
+      "slug": "Webhooksite",
+      "name": "Webhook.site",
+      "icon": "/service-icons/Webhooksite.png",
+      "website": "https://webhook.site/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b9726e44ef09db12f6e010af8977d55dc971b841",
+      "slug": "Webmin",
+      "name": "Webmin",
+      "icon": "/service-icons/Webmin.svg",
+      "website": "http://www.webmin.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "11915e3ab4fbb44453d956eb4d5163cad8050d6b",
+      "slug": "WebTools",
+      "name": "WebTools",
+      "icon": "/service-icons/WebTools.png",
+      "website": "https://github.com/ukdtom/WebTools.bundle",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "02be3710e5399ca94da3c71d2b7d9c3af2b593f8",
+      "slug": "WeightsBiases",
+      "name": "Weights & Biases",
+      "icon": "/service-icons/WeightsBiases.svg",
+      "website": "https://wandb.ai/site",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b4021dd275593e7b96610fc7b6300af8cdca8765",
+      "slug": "Wekan",
+      "name": "Wekan",
+      "icon": "/service-icons/Wekan.png",
+      "website": "https://wekan.github.io",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "9b4e87ab376cf2327facda32fa98617676dfccd9",
+      "slug": "Wetty",
+      "name": "Wetty",
+      "icon": "/service-icons/Wetty.png",
+      "website": "https://github.com/krishnasrinivas/wetty",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "daec766cafab4e5297d8c2359810b3dfcc7626fd",
+      "slug": "WgGenWeb",
+      "name": "Wg Gen Web",
+      "icon": "/service-icons/WgGenWeb.png",
+      "website": "https://github.com/vx3r/wg-gen-web",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "84104f4346a60adb795726e3f4f0d1333f8b1942",
+      "slug": "WGDashboard",
+      "name": "WGDashboard",
+      "icon": "/service-icons/WGDashboard.png",
+      "website": "https://github.com/donaldzou/WGDashboard",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "471b1748546610893a56b7d9254afa4752f630b9",
+      "slug": "WhatsupDocker",
+      "name": "What's up Docker",
+      "icon": "/service-icons/WhatsupDocker.png",
+      "website": "https://github.com/getwud/wud",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b2670053bbd2b8f81c56d9b5cf038404d6ba1d9a",
+      "slug": "Whisparr",
+      "name": "Whisparr",
+      "icon": "/service-icons/Whisparr.svg",
+      "website": "https://github.com/whisparr/whisparr",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "170b7d7a0634e8d51a768a113f00d7601fa9b182",
+      "slug": "Whoogle",
+      "name": "Whoogle",
+      "icon": "/service-icons/Whoogle.png",
+      "website": "https://github.com/benbusby/whoogle-search",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "cf796459bad1da470debfed16506e47aab347dbe",
+      "slug": "Wikijs",
+      "name": "Wiki.js",
+      "icon": "/service-icons/Wikijs.png",
+      "website": "https://wiki.js.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "9d3283ea8d3bb69f327af06870657a63ab3bbf6d",
+      "slug": "WindowsAdminCenter",
+      "name": "Windows Admin Center",
+      "icon": "/service-icons/WindowsAdminCenter.png",
+      "website": "https://www.microsoft.com/en-us/windows-server/windows-admin-center",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "af5a29cc419b97f7f02c832f8c43a912ce38d176",
+      "slug": "WindowsServerEssentials2016",
+      "name": "Windows Server Essentials 2016",
+      "icon": "/service-icons/WindowsServerEssentials2016.svg",
+      "website": "https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2016-essentials",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "afef2217e82ee20638490bb102605f6e09789093",
+      "slug": "WireGuard",
+      "name": "WireGuard",
+      "icon": "/service-icons/WireGuard.png",
+      "website": "https://www.wireguard.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "5ff2a4ea6efdf5f3ebc1cbeb97816097ca68cb44",
+      "slug": "Wizarr",
+      "name": "Wizarr",
+      "icon": "/service-icons/Wizarr.png",
+      "website": "https://github.com/wizarrrr/wizarr",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "ac894a3a9399f135f6eb87f27fb742c71189cc86",
+      "slug": "WLED",
+      "name": "WLED",
+      "icon": "/service-icons/WLED.png",
+      "website": "https://wled.me",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "806e2f2b1e7f8cea5f3250ab5822253cfc88d413",
+      "slug": "WoodpeckerCI",
+      "name": "Woodpecker CI",
+      "icon": "/service-icons/WoodpeckerCI.svg",
+      "website": "https://woodpecker-ci.org/",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "b1909932aac1c5510c044de0cb8c0f3ef049a250",
+      "slug": "WordPress",
+      "name": "WordPress",
+      "icon": "/service-icons/WordPress.svg",
+      "website": "https://wordpress.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2ca95e6d1886314f9faa757c69a3b5d0eb6eef61",
+      "slug": "Xbackbone",
+      "name": "Xbackbone",
+      "icon": "/service-icons/Xbackbone.png",
+      "website": "https://github.com/SergiX44/XBackBone",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "d1d0f952ebdcb6b8918bdd7ddbf55793dca5fa93",
+      "slug": "XenOrchestra",
+      "name": "Xen-Orchestra",
+      "icon": "/service-icons/XenOrchestra.png",
+      "website": "https://xen-orchestra.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "8304785b9937bf6d4e04c2d7aaa786b3577fb10c",
+      "slug": "Xigmanas",
+      "name": "Xigmanas",
+      "icon": "/service-icons/Xigmanas.png",
+      "website": "https://www.xigmanas.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "cb6a8a853393228efd2b7b1963f50d56b7f0d818",
+      "slug": "xTeVe",
+      "name": "xTeVe",
+      "icon": "/service-icons/xTeVe.png",
+      "website": "https://xteve.de",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "991894ca059d0faa7400a50c0aefb30d252346e7",
+      "slug": "XWiki",
+      "name": "XWiki",
+      "icon": "/service-icons/XWiki.png",
+      "website": "https://www.xwiki.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "56eb3a3ec734e5a66d4f1746ef58961d266fdabe",
+      "slug": "Yacht",
+      "name": "Yacht",
+      "icon": "/service-icons/Yacht.svg",
+      "website": "https://github.com/SelfhostedPro/Yacht",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "d5dc44619c761e1012648613619006016a669ee7",
+      "slug": "YNAB",
+      "name": "YNAB",
+      "icon": "/service-icons/YNAB.png",
+      "website": "https://www.youneedabudget.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "6c87650cad54af69bf838f03b190280f7537c03d",
+      "slug": "YourSpotify",
+      "name": "Your Spotify",
+      "icon": "/service-icons/YourSpotify.svg",
+      "website": "https://github.com/Yooooomi/your_spotify",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "f23460c5b2dba5711733151081cd82ecc9106964",
+      "slug": "YOURLS",
+      "name": "YOURLS",
+      "icon": "/service-icons/YOURLS.svg",
+      "website": "https://yourls.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "6e4a451c7c654ae2bc5c75689e690966a5fd29ee",
+      "slug": "youtubedl",
+      "name": "youtube-dl",
+      "icon": "/service-icons/youtubedl.png",
+      "website": "https://youtube-dl.org",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "19132c3f80c33d38bbe4c51828f05b081e9f66cd",
+      "slug": "Zabbix",
+      "name": "Zabbix",
+      "icon": "/service-icons/Zabbix.svg",
+      "website": "https://www.zabbix.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "4caf560ca51d18d1be6dd09a48fafa883c293462",
+      "slug": "Zammad",
+      "name": "Zammad",
+      "icon": "/service-icons/Zammad.svg",
+      "website": "https://zammad.org",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "f885b64f1778c7ac0a3f4bb840f7d8525364490a",
+      "slug": "zerobyte",
+      "name": "zerobyte",
+      "icon": "/service-icons/zerobyte.png",
+      "website": "https://zerobyte.app/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "b2a1d91f32dc4d5bc979768320e0a689adf58d41",
+      "slug": "Zigbee2MQTT",
+      "name": "Zigbee2MQTT",
+      "icon": "/service-icons/Zigbee2MQTT.png",
+      "website": "https://www.zigbee2mqtt.io/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "a0fbc0b0dddf78ad9a158c45673f3ff9f3bcfe10",
+      "slug": "Zipline",
+      "name": "Zipline",
+      "icon": "/service-icons/Zipline.png",
+      "website": "https://zipline.diced.sh/",
+      "enhanced": true,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "563c45bed29a24c1a1a2981af1a93bdeb692713b",
+      "slug": "ZNC",
+      "name": "ZNC",
+      "icon": "/service-icons/ZNC.png",
+      "website": "https://wiki.znc.in/ZNC",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "e7ebe523e3dcf616e0553e60747f415d47a6fe22",
+      "slug": "ZoneMinder",
+      "name": "ZoneMinder",
+      "icon": "/service-icons/ZoneMinder.png",
+      "website": "https://zoneminder.com",
+      "enhanced": false,
+      "tileBackground": "dark"
+    },
+    {
+      "id": "2721c724e1932aee2eb38c86d887ddc25bf01b54",
+      "slug": "zoraxy",
+      "name": "zoraxy",
+      "icon": "/service-icons/zoraxy.png",
+      "website": "https://github.com/tobychui/zoraxy",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "d17139efd0d8e0cba9bf8380c9818838911dfe0f",
+      "slug": "Zulip",
+      "name": "Zulip",
+      "icon": "/service-icons/Zulip.png",
+      "website": "https://zulipchat.com",
+      "enhanced": false,
+      "tileBackground": "light"
+    },
+    {
+      "id": "6aea59b2531c720a59e1ab6e9991a0ecce9ec847",
+      "slug": "Zwavejs2Mqtt",
+      "name": "Zwavejs2Mqtt",
+      "icon": "/service-icons/Zwavejs2Mqtt.svg",
+      "website": "https://zwave-js.github.io/zwavejs2mqtt/#/",
+      "enhanced": false,
+      "tileBackground": "dark"
+    }
+  ]
+}

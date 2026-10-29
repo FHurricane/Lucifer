@@ -1,0 +1,26 @@
+# JavaScript dependencies and frontend builds
+node_modules/
+dist/
+
+# Rust/Tauri build output
+src-tauri/target/
+
+# Generated installers and temporary output
+installers/
+output/
+
+# Operating-system and editor files
+.DS_Store
+**/.DS_Store
+*.log
+.idea/
+.vscode/
+
+# Local environment and signing material
+.env
+.env.*
+!.env.example
+*.p12
+*.pfx
+*.key
+*.cer

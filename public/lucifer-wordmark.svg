@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="100" viewBox="0 0 420 100" fill="none">
+  <defs>
+    <linearGradient id="flame" x1="43" y1="12" x2="83" y2="85" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFD39B"/><stop offset=".55" stop-color="#E77B4F"/><stop offset="1" stop-color="#9A382B"/>
+    </linearGradient>
+    <linearGradient id="word" x1="118" y1="20" x2="392" y2="82" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF0D8"/><stop offset=".56" stop-color="#E5C397"/><stop offset="1" stop-color="#C98560"/>
+    </linearGradient>
+    <filter id="glow" x="20" y="0" width="90" height="100" color-interpolation-filters="sRGB"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+  <path d="M66 14c3 17-9 24-7 37 1 6 5 10 8 15 2-7 8-11 7-20 10 10 14 18 11 27-3 10-12 16-25 16-14 0-24-8-24-20 0-10 7-19 17-28-2 11-1 16 4 20-1-17 11-25 9-47Z" fill="url(#flame)" opacity=".36" filter="url(#glow)"/>
+  <path d="M66 13c3 17-9 24-7 37 1 6 5 10 8 15 2-7 8-11 7-20 10 10 14 18 11 27-3 10-12 16-25 16-14 0-24-8-24-20 0-10 7-19 17-28-2 11-1 16 4 20-1-17 11-25 9-47Z" stroke="url(#flame)" stroke-width="2.4" stroke-linejoin="round"/>
+  <path d="M62 71c-4-6-3-12 1-18 1 7 7 10 7 17 0 5-4 8-8 8-5 0-8-3-8-7 0-3 2-5 5-8-1 4 0 6 3 8Z" fill="url(#flame)"/>
+  <text x="119" y="68" fill="url(#word)" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="bold" letter-spacing="3">LUCIFER</text>
+</svg>
