@@ -61,7 +61,7 @@ function render() {
     <main class="shell">
       <header class="topbar">
         <div class="brand"><img class="brand-logo" src="/assets/branding/lucifer-logo-infernal.png" alt="Lucifer — Infernal Desktop" /></div>
-        <div class="top-actions"><button class="icon-btn" id="background" title="Imposta uno sfondo personalizzato" aria-label="Imposta uno sfondo personalizzato">▧</button><button class="avatar" id="reset-background" title="Ripristina lo sfondo predefinito" aria-label="Ripristina lo sfondo predefinito">L</button><button class="add-button" id="add"><span>＋</span> Nuovo pulsante</button></div>
+        <div class="top-actions"><button class="info-button" id="developer-info" title="Informazioni sviluppatore" aria-label="Informazioni sviluppatore">i</button><button class="icon-btn" id="background" title="Imposta uno sfondo personalizzato" aria-label="Imposta uno sfondo personalizzato">▧</button><button class="avatar" id="reset-background" title="Ripristina lo sfondo predefinito" aria-label="Ripristina lo sfondo predefinito">L</button><button class="add-button" id="add"><span>＋</span> Nuovo pulsante</button></div>
       </header>
       <section class="section-head"><div><span class="section-kicker">IL TUO DESKTOP</span><h2>Accessi rapidi <span>${store.items.length.toString().padStart(2, "0")}</span></h2></div></section>
       <section class="dashboard-workspace">
@@ -73,6 +73,7 @@ function render() {
       </section>
       <footer class="footer"><span>Costa Fabio Copyright 2026</span></footer>
     </main>
+    <div class="modal-backdrop info-backdrop" id="info-backdrop" hidden><section class="info-modal" role="dialog" aria-modal="true" aria-labelledby="info-title"><button class="modal-close" id="info-close" aria-label="Chiudi">×</button><div class="info-emblem">i</div><div class="modal-kicker">LUCIFER DASHBOARD</div><h3 id="info-title">Informazioni sviluppatore</h3><p class="info-intro">Applicazione desktop sviluppata con Rust e Tauri.</p><dl class="developer-details"><div><dt>Developer</dt><dd>Costa Fabio</dd></div><div><dt>Languages</dt><dd><span class="rust-badge">Rust</span></dd></div><div><dt>Ver</dt><dd>1.0b</dd></div><div><dt>Email</dt><dd><button id="developer-email">costa.fabio.iosdev@hotmail.com</button></dd></div><div><dt>Webpage</dt><dd><button id="developer-webpage">www.costafabio.it</button></dd></div></dl></section></div>
     <div class="context-menu" id="context" hidden><button data-action="icon"><span>✳</span> Cambia icona</button><button data-action="edit"><span>✎</span> Modifica pulsante</button><div></div><button class="danger" data-action="delete"><span>⌫</span> Elimina</button></div>
     <div class="modal-backdrop" id="modal-backdrop" hidden><section class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title"><button class="modal-close" id="modal-close" aria-label="Chiudi">×</button><div class="modal-kicker">CONFIGURA ACCESSO</div><h3 id="modal-title">Nuovo pulsante</h3><p class="modal-sub">Scegli come raggiungere ciò che ti serve.</p><div class="kind-switch"><button data-kind="app" class="active"><span>⌘</span> Applicazione</button><button data-kind="url"><span>↗</span> Link web</button><button data-kind="document"><span>▤</span> Documento</button></div><label class="field-label" for="item-title">NOME</label><input id="item-title" class="text-field" placeholder="Es. Il mio progetto" maxlength="36"/><label class="field-label" id="target-label" for="item-target">PERCORSO APPLICAZIONE</label><div class="target-row"><input id="item-target" class="text-field" placeholder="Percorso o comando"/><button id="browse" class="browse-btn" title="Sfoglia">…</button></div><label class="field-label" for="service-search">CATALOGO SERVIZI <span>${services.length}</span></label><input id="service-search" class="text-field service-search" type="search" placeholder="Cerca Plex, Home Assistant, Nextcloud…" autocomplete="off"/><div class="service-picker" id="service-picker">${serviceButtons()}</div><label class="field-label">ALTRE ICONE</label><div class="icon-picker">${Object.entries(glyphs).map(([name, icon]) => `<button class="icon-choice ${name === "star" ? "selected" : ""}" data-icon="${name}" title="${name}">${icon}</button>`).join("")}<button class="icon-choice upload-choice" id="upload-icon" title="Carica immagine">↑</button></div><button class="save-button" id="save-item">Aggiungi pulsante <span>→</span></button></section></div>`;
 
@@ -80,6 +81,11 @@ function render() {
   app.querySelector("#add-tile")?.addEventListener("click", () => showModal());
   app.querySelector("#background")?.addEventListener("click", chooseBackground);
   app.querySelector("#reset-background")?.addEventListener("click", resetBackground);
+  app.querySelector("#developer-info")?.addEventListener("click", showInfo);
+  app.querySelector("#info-close")?.addEventListener("click", hideInfo);
+  app.querySelector("#info-backdrop")?.addEventListener("click", (event) => { if (event.target === event.currentTarget) hideInfo(); });
+  app.querySelector("#developer-email")?.addEventListener("click", () => void openUrl("mailto:costa.fabio.iosdev@hotmail.com"));
+  app.querySelector("#developer-webpage")?.addEventListener("click", () => void openUrl("https://www.costafabio.it"));
   app.querySelectorAll<HTMLButtonElement>(".tile[data-id]").forEach((el) => {
     el.addEventListener("contextmenu", (event) => { event.preventDefault(); const rect = el.getBoundingClientRect(); contextPosition = { x: Math.min(event.clientX, innerWidth - 230), y: Math.min(event.clientY, innerHeight - 170) }; menuItem = store.items.find((item) => item.id === el.dataset.id) || null; showContext(); });
     el.addEventListener("click", async () => { if (Date.now() < suppressClickUntil) return; const item = store.items.find((entry) => entry.id === el.dataset.id); if (!item) return; try { if (item.kind === "url") await openUrl(item.target); else if (item.kind === "document") await openPath(item.target); else await invoke("launch_application", { target: item.target }); } catch (error) { toast(`Impossibile aprire: ${error}`); } });
@@ -246,6 +252,8 @@ function showModal(item?: Item) {
   setTimeout(() => (document.querySelector("#item-title") as HTMLInputElement).focus(), 40);
 }
 function hideModal() { document.querySelector<HTMLDivElement>("#modal-backdrop")!.hidden = true; }
+function showInfo() { document.querySelector<HTMLDivElement>("#info-backdrop")!.hidden = false; }
+function hideInfo() { const backdrop = document.querySelector<HTMLDivElement>("#info-backdrop"); if (backdrop) backdrop.hidden = true; }
 function setKind(kind: Item["kind"]) {
   document.querySelectorAll(".kind-switch button").forEach((button) => button.classList.toggle("active", (button as HTMLElement).dataset.kind === kind));
   const label = document.querySelector("#target-label")!; const input = document.querySelector<HTMLInputElement>("#item-target")!;
@@ -321,7 +329,7 @@ async function contextAction(action: string) {
   if (action === "icon") { showModal(item); document.querySelector("#modal-title")!.textContent = "Cambia icona"; }
 }
 document.addEventListener("click", (event) => { if (!(event.target as HTMLElement).closest("#context")) hideContext(); });
-document.addEventListener("keydown", (event) => { if (event.key === "Escape") { hideContext(); hideModal(); } });
+document.addEventListener("keydown", (event) => { if (event.key === "Escape") { hideContext(); hideModal(); hideInfo(); } });
 
 async function initialize() {
   try { const catalog = await fetch("/service-icons/services.json").then((response) => response.json()) as ServiceCatalog; services = catalog.services; } catch { services = []; }

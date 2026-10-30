@@ -77,6 +77,21 @@ body{background-image:linear-gradient(180deg,rgba(8,9,12,.34),rgba(8,9,12,.43) 4
 .donut-card:nth-child(5) .donut-value{stroke:#c48254}
 .donut-card:nth-child(6) .donut-value{stroke:#a98672}
 .donut-body small{white-space:normal;line-height:1.45;max-height:32px}
+
+/* Developer information */
+.info-button{width:31px;height:31px;padding:0;display:grid;place-items:center;border-radius:50%;border:1px solid rgba(211,112,77,.42);background:linear-gradient(145deg,rgba(151,54,35,.17),rgba(31,22,23,.55));color:#d99572;font:italic 700 14px Georgia,serif;box-shadow:inset 0 0 10px rgba(207,77,45,.06);transition:.2s}
+.info-button:hover{color:#ffd4bc;border-color:rgba(235,126,87,.75);background:rgba(185,72,45,.2);box-shadow:0 0 17px rgba(194,60,36,.2)}
+.info-modal{width:min(430px,100%);position:relative;padding:34px;background:linear-gradient(145deg,#201b1d,#17191d 62%,#1b1718);border:1px solid rgba(215,115,79,.22);border-radius:16px;box-shadow:0 28px 100px #000b,0 0 45px rgba(142,45,29,.12)}
+.info-emblem{width:43px;height:43px;margin-bottom:20px;display:grid;place-items:center;border-radius:12px;border:1px solid rgba(216,110,74,.42);background:linear-gradient(145deg,rgba(175,57,35,.22),rgba(36,22,23,.7));color:#e49a76;font:italic 700 22px Georgia,serif;box-shadow:0 0 22px rgba(178,54,33,.13)}
+.info-modal h3{margin:8px 0 5px;color:#eee6e1;font:600 23px 'Manrope';letter-spacing:-.55px}
+.info-intro{margin:0 0 25px;color:#7f858c;font-size:11px}
+.developer-details{margin:0;display:grid;gap:7px}
+.developer-details>div{min-height:47px;padding:10px 12px;display:grid;grid-template-columns:88px minmax(0,1fr);align-items:center;border:1px solid rgba(255,255,255,.065);border-radius:8px;background:rgba(255,255,255,.022)}
+.developer-details dt{color:#8d9298;font:8px 'DM Mono';letter-spacing:1px;text-transform:uppercase}
+.developer-details dd{min-width:0;margin:0;color:#ded7d2;font:500 11px 'Manrope'}
+.developer-details button{max-width:100%;padding:0;border:0;background:none;color:#d89a79;font:10px 'DM Mono';text-align:left;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.developer-details button:hover{color:#f2b796;text-decoration:underline}
+.rust-badge{display:inline-flex;padding:4px 8px;border-radius:5px;background:rgba(190,77,47,.12);border:1px solid rgba(211,112,77,.25);color:#db9877;font:9px 'DM Mono'}
 .network-device{display:flex;flex-direction:column;gap:4px;padding:10px 11px;border-radius:9px;background:rgba(168,73,46,.07);border:1px solid rgba(196,92,60,.14)}
 .network-device strong{margin-top:3px;color:#e6d8cf;font:600 13px 'Manrope';overflow:hidden;text-overflow:ellipsis}
 .network-device small{color:#777e86;font:8px 'DM Mono';overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
